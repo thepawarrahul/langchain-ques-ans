@@ -1,0 +1,19 @@
+<template>
+  <lightning-card  title="Ask question...">
+    <lightning-input
+      type="text"
+      label="Ask question"
+      placeholder="Ask question..."
+    >
+    </lightning-input>
+    <div>
+      <lightning-button
+        label="Ask"
+        onclick={handleAskClick}
+      ></lightning-button>
+    </div>
+    <lightning-formatted-rich-text
+      value={answer}
+    ></lightning-formatted-rich-text>
+  </lightning-card>
+</template>

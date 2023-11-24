@@ -18,6 +18,7 @@ const storage = multer.diskStorage({
   const upload = multer({ storage });
 
 app.use(express.json());
+
 // File Upload Endpoint
 app.post('/upload', upload.single('file'), (req, res) => {
   if (!req.file) {
@@ -26,7 +27,7 @@ app.post('/upload', upload.single('file'), (req, res) => {
   res.json({ message: 'File uploaded successfully', filename: req.file.filename });
 });
 
-app.get('/answer', async (req, res) => {
+app.post('/answer', async (req, res) => {
   let questionFromRequest = req.body.question;
 
   if (questionFromRequest === undefined || questionFromRequest === "") {
