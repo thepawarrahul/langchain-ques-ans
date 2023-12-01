@@ -5,7 +5,7 @@ public with sharing class PromptHistoryUi {
             PromptHistory__c];
 
         if (histories.isEmpty()) {
-            null;
+            return null;
         }
 
         List<HistoryResponse> responses = new List<PromptHistoryUi.HistoryResponse>();
