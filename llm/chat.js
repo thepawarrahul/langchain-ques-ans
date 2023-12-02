@@ -72,8 +72,8 @@ function normalizeDocuments(docs) {
 export const run = async (question) => {
     // 10. Calculate the cost of tokenizing the documents
     console.log("Calculating cost...");
-    //const cost = await calculateCost();
-    const cost = 0.111;
+    const cost = await calculateCost();
+    //const cost = 0.111;
     console.log("Cost calculated:", cost);
   
     // 11. Check if the cost is within the acceptable limit
