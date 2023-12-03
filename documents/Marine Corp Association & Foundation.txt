@@ -1,0 +1,47 @@
+How the Marine Corp Association & Foundation improved member retention with Nimble AMS Predictions and Salesforce Einstein AI
+Everyone is talking about Artificial Intelligence (AI). But is your association ready to start leveraging it?
+
+More and more organizations are choosing to invest in Artificial Intelligence; however, associations still are slow to embrace this trend. Community Brands research found that only 12% of professional or trade organizations currently have AI or machine learning technology, and only 17% plan on adopting the technology in the future.  
+
+How can your association stand out from industry competition and transform your staff and member experience? Embrace Artificial Intelligence today.    
+
+Keep reading to learn how the Marine Corp Association & Foundation (MCA&F) used Nimble AMS Predictions and Salesforce Einstein AI to boost member retention.  
+Are you looking to get started with AI? Check out our free toolkit to begin your Artificial Intelligence journey today! Download now.
+About the Marine Corps Association & Foundation (MCA&F)
+The Marine Corp Association & Foundation (MCA&F) is a member-based organization dedicated to the professional development and recognition of US Marines. In operation for over 100 years, MCA&F works to expand awareness of the rich traditions, history, and spirit of the US Marine Corps. The member base is active duty, retired, and veteran Marines with over 77,000 individuals, providing hundreds of member resources.   
+
+MCA&F has been a Nimble AMS client since 2018. The association appreciates Nimble AMS’ strong reporting and analytics that saves staff time and improves member engagement. Using Nimble AMS makes it easy for MCA&F to integrate with other solutions and have access to the latest innovations like Artificial Intelligence.   
+
+“We worked with the Nimble AMS team to build an AI-driven solution that automatically identifies members at risk of lapsing, and then helps us take quick action to save the memberships. All of this has led to a return on our investment sooner than we expected,” said Jaclyn Baird, Director of Membership Services MCA&F.
+4 steps to use Artificial Intelligence to boost member retention
+The Marine Corp Association & Foundation faced a major challenge—the organization experienced 1,000 lapsed members each month. By leveraging Nimble AMS Predictions and Salesforce Einstein AI, MCA&F automatically identified members who were at high risk of lapsing and presented staff with suggested actions to encourage membership renewal.  
+
+Here are four ways associations can use Artificial Intelligence and predictive analytics to increase member retention and improve the staff and member experience:  
+1. Gain more data.
+Initially, MCA&F didn’t know why they had 1,000 lapsed members a month. MCA&F didn’t understand the members’ levels of engagement or the reasons why they were leaving. These factors made retention extremely difficult.
+
+When you choose association management software (AMS) that incorporates Artificial Intelligence, your association can become more data driven. AI makes it easy to learn more about your members, helping associations create future goals.
+
+Nimble AMS Predictions and Einstein AI empower organizations to predict up to 10 scenarios, based on what matters to your association. Determine who’s likely to register for an upcoming conference, which member is likely to donate, who will complete a professional development course, and more.
+
+2. Streamline manual tasks.
+Before MCA&F started leveraging AI, staff were spending hours on membership renewal tasks. They made hundreds of calls to encourage membership renewal, but a majority of those calls were unsuccessful.
+
+AI can improve processes and enhance staff productivity. By leveraging AI, MCA&F was able to reduce member and IT staff time by 20 hours. MCA&F leveraged Nimble AMS and Einstein AI to discover patterns of behavior to empower quicker, smarter membership decision making. AI made it easier for staff to know when and how to reach out to members for renewal prior to a lapse.
+
+3. Revolutionize membership renewal processes.
+When it came to members renewing, most MCA&F members didn’t renew until they received an invoice. This put many members at risk of lapsing.  
+ 
+With AI, organizations can transform the membership renew process. Rather than waiting to send an invoice or until after a member lapses, AI can help you automate key renewal processes. Leverage AI and your member behavior data to determine which of your members might need additional encouragement to renew.  
+ 
+Send targeted emails to highlight membership benefits, personalizing the email content based on member data. Additionally, use automated membership renewal emails and invoices to free up staff time so they can offer a more personalized touch to renewal. 
+4. Build and execute member predictions.
+After working with the Nimble AMS team, MCA&F decided they needed to be more proactive rather than reactive in its member renewal process. The association decided to set a goal of increasing member retention by 5%.  
+ 
+MCA&F leveraged Nimble AMS Predictions and Einstein AI to identify at-risk members and target them with specific renewal actions. Nimble AMS Predictions and Einstein AI made it simple for MCA&F to build member predictions, with a point-and-click builder.  
+ 
+MCA&F used the prediction wizard to determine how many individuals were likely to lapse their memberships. With the help of the Nimble AMS team, MCA&F created a solution that identified early warning signs for at-risk of lapsing members. Using this AI tool, MCA&F renewed 25% of the members who were at risk of lapsing. 
+
+Did you know? All Nimble AMS users get to try out Nimble AMS Predictions and Einstein AI with one free prediction. Learn more today!
+
+resource :https://www.nimbleams.com/blog/improve-member-retention-with-artificial-intelligence/

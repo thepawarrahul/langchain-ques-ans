@@ -1,0 +1,165 @@
+7 ways to increase volunteer engagement
+Is your association looking for tips to drive volunteer engagement? Perhaps your volunteer program has plenty of recruits, but you’re looking for strategies to create meaningful member experiences?   
+
+When you prioritize volunteer engagement, your volunteer program benefits, and so does your organization’s bottom line. Volunteers have the power to save your association time and money. According to AmeriCorps, Americans volunteered an average of 7.8 billion hours. AmeriCorps estimates the industry of volunteerism to be worth $184 billion. 
+
+It’s crucial to invest in your volunteer engagement strategy and keep volunteers happy, motivated, and committed to the work they do for your organization. Ultimately, the level of volunteer engagement will impact your association’s ability to retain and develop volunteers. Read our blog for tips to boost volunteer engagement today! 
+What is an effective volunteer engagement strategy?  
+To create a successful volunteer engagement strategy and foster worthwhile volunteer opportunities, you’ll want to prioritize collaboration between your volunteers and staff. These volunteer opportunities will not only positively impact your association, but they’ll benefit your profession and industry. When developing your volunteer engagement strategy, attempt to match your volunteers with opportunities that provide valuable experiences.
+
+How can technology boost volunteer engagement?
+Having the right tools can make volunteer engagement easy. If your organization wants to create a successful volunteer experience, you’ll want to adopt modern association management software (AMS). Look for an AMS that makes it simple for members to browse and apply for volunteer opportunities. Modern technology should also help your staff streamline the management of volunteer jobs and shifts, so members can easily see how much they’ve contributed to a volunteer project or team. 
+
+TECH TIP: Take volunteer engagement to the next level with Nimble AMS. The Nimble AMS volunteer management functionality helps you share news about volunteer opportunities and boost engagement with easy browsing and volunteer application features. Nimble AMS also streamlines staff processes by tracking volunteer jobs and shifts for members.
+7 strategies to boost volunteer engagement 
+Now that you know why a volunteer engagment strategy is crucial to maintaining your volunteer program, it’s time to get started offering valuable member experiences. Here’s how: 
+1. Survey your volunteers
+To provide a worthwhile experience for your volunteers and begin implementing your volunteer engagement strategy, you’ll need to seek member feedback. The easiest way is to conduct a survey. With a volunteer survey, you can gain statistically beneficial answers, while simultaneously empowering members and bolstering your retention efforts.   
+
+With a good survey, you can impact the effectiveness of volunteer orientation, training, recruitment, and retention. Before you create your survey, consider how you’ll get volunteers to participate.
+
+Try the following methods to increase volunteer responses in your survey: 
+
+Explain the benefits. In the survey introduction, share how it will help the volunteer program provide better opportunities for its participants. Explain that when volunteers offer honest feedback, you’ll be able to match them in the perfect experience.
+Make the survey anonymous. If you seek your volunteer’s honesty, consider making the survey anonymous. You’re less likely to get their authentic feedback if you make them submit their names.
+Offer an incentive. Consider purchasing a small gift card and randomly selecting a winner from those who complete the survey.
+Build hype. Promote your survey in multiple locations – through emails, on your association website, and on social media. Always include a call to action, which features a link to the survey location.
+Keep it short. While you may have a lot of questions for your volunteers, best practice is to keep your surveys short. You can always conduct a follow up survey in the future.
+
+Questions to include in your survey 
+When compiling your first volunteer survey, consider beginning it with basic demographic data to provide a helpful foundation before delving into the meat of your survey. Try including the following:  
+
+Demographic data  
+Availability and scheduling  
+What skills do you have?  
+What are your interests?  
+Describe why you first wanted to volunteer at the association.  
+What motivates you to volunteer with our association?  
+
+Because your association wants volunteer engagement, the primary focus of the remaining survey should be on volunteer motivation. Consider asking questions like:  
+
+How would you rate your current volunteer experience, from one to ten?  
+Do you find your volunteer work at the association impactful?
+Do you feel like a valued member of our association? Is there any way we could make you feel more appreciated?
+Do we offer enough training opportunities, and was our orientation process thorough enough that you feel prepared to do your volunteer duties?
+Are there volunteer opportunities we don’t currently offer, but you’d want to participate in?
+What is the most important work you do for our community through our association?
+Are there any needs in our community that our association can work to address?
+Has your work contributed to any noticeable results? 
+Once you gather your results and analyze the data, you’ll have a keen sense of what motivates your volunteers. You’ll also understand how your association can better support your volunteers. 
+TECH TIP: Utilize Nimble AMS to access the Salesforce AppExchange and apply a survey tool to your Nimble AMS experience. With the power of the Salesforce AppExchange, you can browse from over 7,000 apps and select the best survey solution for your association
+
+2. Understand volunteer motivation
+Once you get the results from your survey, you’ll have a clearer sense of why your volunteers choose to work. Analyze the survey results and listen to your volunteers’ feedback. Take the survey results and see if you can match your volunteers’ interests with available opportunities within your association. Doing so will ensure volunteer engagement.  
+
+At a most basic level, volunteers give their time because they were asked and/or they want to do good in the community. In the volunteer survey, your members will provide additional reasons that they give their time. These reasons can be divided into the following categories Professional and Personal Motivations.  
+
+Professional motivations
+If you have volunteers who are motivated by professional causes, these reasons will likely influence why they donate their time:  
+
+To network with their professional community  
+To diversify their current skillset  
+To consider a job change  
+To gain leadership skills  
+To donate their professional skills  
+To serve their industry and local community
+
+Personal motivations  
+If your volunteers are moved by personal motivations, they’ll likely be influenced by the following reasons:  
+
+To impact their profession and industry  
+To do something different from their job  
+To show commitment to an organization’s mission  
+To be part of something bigger than themselves  
+Because they were asked to volunteer by a friend or colleague  
+TECH TIP: Nimble AMS Predictions has built-in AI and predictive analytics to help you better understand your members' behavior and boost your volunteer engagement strategy.
+
+
+3. Create a volunteer perk program
+Jumpstart volunteer recruitment and maximize engagement by granting your volunteers professional and personal perks. Consider offering the following benefits to your association volunteers:  
+
+Professional perks
+Let volunteers promote their company at events  
+Allow qualified volunteers to speak at conference sessions and webinars   
+Have a volunteer take over your social media once a month  
+Allow volunteers to share program updates at a member town hall  
+Let qualified volunteers teach professional development sessions
+
+Personal perks
+Provide food and drinks during volunteer hours
+Reimburse travel costs
+Create and provide volunteer t-shirts
+Offer mentor/mentee volunteer programs
+Provide an unforgettable experience that impacts your volunteers 
+
+Offering a perk program can provide another reason for volunteers to work at your association and stay engaged. Giving volunteers facetime at member events might also serve as an effective recruitment technique.  
+4. Provide volunteer orientation
+Volunteer orientation is all about educating your members about the mission and goals of your association. The emphasis of orientation should be to help your volunteers learn more about your organization and understand how they fit in. If a volunteer has a clear sense of their role, it’s easier to foster a member’s excitement and maximize volunteer engagement. 
+
+Follow these tips to create a meaningful volunteer orientation and drive member engagement: 
+Design an orientation program. Determine how you want to conduct your volunteer orientation. Having in-person orientation is a great way for volunteers to meet and bond, but virtual options are flexible and easy to access for busy volunteers.
+Create an orientation manual. Creating a manual will further solidify your orientation information and compile all presented information in one location. Consider including the following components in your manual:
+
+Association mission statement  
+List of goals and summary of the long-term plan  
+Staff and volunteer directory  
+List of Board of Directors and members of other important committees   
+Association rules, procedures, and expectations for volunteers  
+Volunteer check-in system  
+Reimbursement policy  
+Termination policy  
+
+Make it memorable. To immediately engage your recruits at the start of orientation, try making your approach appealing to all learning styles.Try out these formats in your orientation:  
+Use PowerPoint or a similar slide deck to serve as a visual outline of the information you need to cover during your orientation.   
+Try gamification to engage your volunteers during the orientation experience.   
+Include times of discussion and allow your volunteers to ask questions.
+Add roleplaying and group activities that allow for team building and friendship forming. 
+Provide testimonials about your volunteer program. If possible, bring in veteran volunteers and have them share their experiences.  
+Make sure you follow up with your volunteers after orientation. Survey members to see how they felt about the experience and identify any areas where you can improve. Additionally, you’ll want to provide next-step information on where volunteers should report for training. 
+
+
+5. Train your volunteers
+Training your volunteers refers to when you cover the role-specific details of their work. If your volunteers are helping staff in their positions, try to have staff train them directly.
+
+Ensure training includes the following:  
+
+How the volunteers should handle their specific tasks  
+What they should do in an emergency  
+What are the goals for their position  
+What equipment is required for their role  
+A general walkthrough of their tasks
+
+To elevate your training process, consider converting your volunteer training to online videos or modules, ensuring easy access for new recruits.   
+
+Training can also refer to professional development opportunities within the volunteer program at your association. Whether it’s leadership training or learning a new skill, your volunteers may be motivated to give their time to advance their skill set. Consider offering professional development sessions to help your volunteers earn continuing education credits.  
+
+6. Leverage an online member community
+It can be a challenge to keep your volunteers engaged outside of their prearranged volunteer hours. Some will only participate in their volunteer hours, while others will choose to engage in additional member programming. By giving volunteers an online community platform, members are more likely to stay engaged.
+
+Here’s how to design your online community to boost volunteer engagement:   
+
+If your association already has an online member community, consider creating different channels or subgroups for your volunteers. Ask the following questions as you build your online community:  
+
+Who will manage the community? Does your association have a manager to oversee your online community platform? Try selecting one staff member to create and manage community groups. Within the groups themselves, consider selecting a volunteer to lead or manage discussions.
+Do you need to create group descriptions or ground rules? It’s always wise to have reminders of the community’s purpose and reminders to be polite and respectful.
+Who else should know about the online community? Chances are you’ll get a lot of great testimonials from your online volunteer group, leading to excellent marketing material. If your volunteers are okay with you sharing their stories, try keeping your entire association in the loop about the latest volunteer project and successes.   
+
+To foster your online community, consider creating some basic content to get the discussion going. From there, your volunteers will take over.
+
+Here’s how: 
+
+Mix up the content. Try creating a schedule of content and posting different types depending on the day. Be sure to post different content formats to the online communities too, like videos, gifs, and pictures.
+Promote your online communities. Ensure you invite your volunteers to the online community through email and text. Promote your online community on social media too.
+Connect veterans and new volunteers. Foster community within your volunteer program by pairing experienced and new volunteers in a mentoring relationship. Within your online community, create a separate subgroup of veterans and new volunteers to encourage the discussion of personal volunteer experiences and the exchange of ideas for ongoing success. 
+
+7. Recognize your volunteers and their accomplishments
+Always give your volunteers recognition amongst your members. Never assume a volunteer knows you appreciate their hard work. 
+
+Here’s how to show your member volunteers that you care: 
+
+Send thank you’s. Say thank you each time your volunteers dedicate their time to an event or have a weekend board meeting. Say it in person and follow up with a handwritten note or virtual thank you.
+Recognize volunteer milestones. You can also recognize your volunteers by celebrating important milestones within your volunteer program. For example, acknowledge your volunteers when they’ve volunteered for six months or hit 100 hours of service. Consider recognizing these milestones at your association’s volunteer thank you party, in association publications, or at member town hall meetings.
+
+Host a thank you party. Recognize your volunteers formally by hosting an annual party to celebrate their efforts. Provide a meal and consider purchasing gifts to thank your volunteers for their dedication. During the event, allow volunteers to share their favorite memories from their experiences. If possible, have higher-level staff share their thanks with the volunteer group.
+Send birthday greetings. Acknowledge your volunteers by sending birthday greetings. This is an effortless approach to personalizing the volunteer experience at your association. On a volunteer’s birthday, send a handwritten card or personalized email.   
+TECH TIP: Use Nimble Create to generate personalized content and thank your volunteers. You can apply easy-to-use templates and automate the thank you email process, saving you time and showing you care about your volunteers.
