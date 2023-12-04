@@ -1,0 +1,30 @@
+MSTA established “One Truth” with Nimble AMS
+Overview
+Missouri State Teachers Association is a professional association  serving more than 44,000 educators and is dedicated to educating the state’s teachers. Membership is comprised of individuals who are Professional Educator, Associates, Retired or Students.
+
+Challenge
+MSTA  was experiencing the following pain points in their previous AMS system:
+
+Unable to Deliver Member Value – MSTA had no seamless way to service members over the web. The process for members to join online or edit information was clunky. MSTA members, younger members especially, expected a better online membership experience.
+Not Nimble – Environment was inflexible and unable to address growing needs. The old system was described as quirky and annoying, requiring several databases and applications in order to meet business needs.
+Immobile – MSTA has Field Reps that service the School Districts and had to call into headquarters to obtain the member information they needed.
+Ouch…Upgrades – Version upgrades were very costly and often caused new issues. MSTA’s IT department frequently operated in a break/fix mode.
+Isolated from Data – Staff found it difficult to get to the data they needed within the current AMS. For this reason, staff created “rogue databases” as a work around. This was complicated further by the fact that many of the staff are remote.
+Solution
+MSTA implemented Nimble AMS built on Salesforce.com to replace MSTA’s existing Association Management System. MSTA worked with the implementation team to:
+
+Establish “One Truth” – MSTA moved from multiple systems into one system, Nimble AMS, to streamline processes and allow for all departments to benefit from membership data being up to date and correct.
+Decentralized Data – Information was decentralized so that all staff could access the information they needed to provide excellent member service. Rogue databases were eliminated and replaced by the Nimble AMS Salesforce platform, improving visibility.
+Self Service – MSTA implemented Nimble AMS Self Service to provide a way for members to easily and accurately update their profile information, join, renew, or register for an event.
+​Results
+Better Member Experience – Members can now interact with MSTA online and do all of the things they would expect to be able to do through the MSTA website. This information gets updated in Nimble AMS.
+Better Staff Experience – All MSTA staff has access to important membership information in a technology platform that is intuitive and elegant. Staff are now empowered to do their jobs.
+IT Has a New Role – Without the distraction of break/fix items, IT can now contribute to the organization in a more strategic way.
+Mobile Freedom – Field Reps are now able to obtain that information using their smart phones, tablets, or laptops without having to worry about networking to headquarters or relying on others to provide the information they need.
+“As an Executive Director it is huge to not have to spend tens of thousands of dollars on outside consultants just to make sure things don’t break with every upgrade. I can now spend that money on value-added things. It’s liberating. That was impossible in our old system. Things just work now. I realize that shouldn’t be shocking, but it is.”
+
+Bruce Moe, Executive Director, MSTA
+
+“The platform is far and above what we had before. It is also refreshing to work with a company like NimbleUser is fanatical about customer service.”
+
+Matt Walker, IT Manager, MSTA

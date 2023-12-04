@@ -1,0 +1,36 @@
+How to boost association revenue with innovative technology
+
+
+Is your association looking for strategies to drive revenue to help you meet your organizational goals? If so, you’re not alone.
+
+To meet the growing demands of your membership base, your association should consider adopting innovative technology like association management software (AMS). Leveraging modern software at your organization can help you provide an excellent member experience and ensure you remain a valuable member resource.
+
+According to the latest Community Brands Association Trends Research, 53% of association professionals rank enhancing the member experience as the top business objective for IT to address. With a superior member experience, your association can increase member acquisition and grow revenue.
+
+3 ways innovative technology can help you drive revenue
+ 
+
+By leveraging an innovative AMS, your association can drive membership growth and retention, ultimately increasing your overall revenue. Here’s how:
+
+1. Personalize member experiences. Personalization is a powerful member benefit. When members can customize their virtual space, it drives an excellent member experience and ultimately increases revenue. Here’s how: personalization empowers members to take charge of their membership journey, streamlining renewal processes and boosting loyalty and retention.
+
+Community Brands Research found that only 24% of association professionals have already invested in personalization technology. However, 34% say they plan on adopting software that offers customization in the future.  
+ 
+Don’t let your association be left in the past. Invest in a modern AMS with personalization features to offer tailored experiences, recommendations, and incentives to your members. Customization features will help you attract new members and retain current members, increasing your overall revenue. 
+
+TECH TIP: With the Nimble AMS Community Hub, offer your members a personalized member portal experience and drive association revenue. The Nimble AMS Community Hub is built on Salesforce Experience Cloud, ensuring you can create tailored member experiences, like promoting upcoming events, providing membership renewal reminders, recommending new learning courses, and more.
+
+2. Focus on the next generation. To ensure your association remains relevant, you’ll want to reconsider your value proposition, especially as it pertains to Generation Z. As you consider boosting association revenue, try tuning your member benefits to meet the needs of Gen Z.
+
+What is Gen Z looking for in an association? Here are three things Gen Z values:
+
+Authenticity. Gen Z members are looking for transparency within your organization. Foster this trust by sending out surveys with your AMS and reporting on how you will use the feedback to make lasting changes.
+Personalized experiences. According to Adobe, 64% of Gen Z respondents said they wanted brands to provide a personalized experience. More than any other group, Generation Z is looking for customized options. Leverage an innovative AMS to deliver personalized member experiences, recommendations, and incentives.
+Mobile responsive options. 98% of Generation Z own a smartphone and 55% use their phone five or more hours a day. Ensure your next AMS offers mobile responsive options so your members can connect virtually at all times. 
+TECH TIP: Nimble AMS leverages Experience Builder to help associations customize the member experience, focusing on the next generation. With Nimble AMS and Experience Builder, your staff can easily personalize sites and configure custom themes and styles with point-and-click actions (no coding is ever required). Nimble AMS is also mobile responsive, ensuring you attract and retain Gen Z members. With Nimble AMS you can utilize Salesforce AppExchange to find the perfect survey solution for your association, boosting transparency within your organization, and ultimately driving retention and increasing revenue.
+
+3. Leverage AI and automation. Invest in a modern AMS to exceed member expectations and increase your association’s recruitment and retention efforts, helping you meet revenue goals. With artificial intelligence (AI,) you can leverage past member data to predict if a member will likely renew. AI predictions empower your organization to be proactive about membership, helping you prevent lapsing renewals and instead boost membership.
+
+Choose an innovative AMS to utilize automation and streamline your membership renewal process. Automating dues and sending customized renewal reminders will help you fight against churn and provide an excellent member experience.
+
+TECH TIP: Leverage Nimble AMS Predictions to determine which members will lapse at your organization and prevent it from happening by sending customized emails. Provide dynamic membership renewal messaging within the Community Hub member portal to increase member retention and drive revenue.

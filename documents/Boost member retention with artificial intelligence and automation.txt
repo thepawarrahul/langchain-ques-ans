@@ -1,0 +1,33 @@
+Boost member retention with artificial intelligence and automation  
+
+
+Lapsed memberships are not something any association wants to see. But member retention is a challenge for most organizations. The latest Community Brands Association Trends Research found technology’s role in member retention is significantly more important than in member acquisition (27 points higher.) The same study discovered that 83% of association professionals identified improving membership retention as a priority.
+
+The question is: How will your association boost member retention?
+
+You might consider being proactive by investing in modern association management software (AMS) that empowers your staff and members. You’ll want to look for an AMS with innovative features that prevent lapsed memberships and offer a superior member experience.
+
+Two effective ways to improve member retention 
+ 
+
+Don’t wait until members leave to try to win them back. Here are two effective ways to boost member retention at your association:
+
+1. Leverage artificial intelligence and predictive analytics 
+
+Choosing an AMS with artificial intelligence (AI) can give you the necessary tools to meet and exceed your association’s strategic goals. AI is highly customizable, empowering your organization to address specific pain points to boost member retention. With AI, you can predict which members are at the highest risk of non-renewal. Then, you can reach out to save them before they leave.
+
+For example, Marine Corps Association & Foundation (MCA&F) was seeing about 1,000 lapsed members each month. Using Nimble AMS Predictions, MCA&F implemented a solution that automatically identifies members at high risk of lapsing and presents staff with suggested actions to take to prevent non-renewal.
+
+Once MCA&F rolled out the AI process and trained staff, it was easy for the association to see warning signals for members at risk of lapsing. Now, when an at-risk member is discovered, MCA&F staff have actionable steps to take with the member. The result: 25% of members at high risk of non-renewal have been saved.
+
+TECH TIP: Nimble AMS Predictions guides you each step of the way to set up the details of the prediction, including what you want to predict and on which data fields the prediction should be based. The technology even lets you know the quality of the prediction you’ve built and if you should consider refining the data fields.
+
+2. Set up automated communications
+
+Making your members feel connected with your organization and showing them the ongoing value of their membership requires continued communication. But your members are at different stages in their membership journeys and blasting the same content to all members doesn’t offer a superior member experience. However, when you leverage a modern AMS, you can automate targeted communications to your members, helping them appreciate their membership while not overwhelming your staff with manual emails.
+
+As members join, consider automating your onboarding email communications to ensure new members feel welcome at your association and understand the value of your member benefits. Choosing to automate onboarding emails is a great way to enhance your member orientation process and guarantee new members feel like they’re part of your association family.
+
+With automation, you can build personalized member journeys so your members will receive relevant messages based on the action they take (or don’t take) in each email. As members get closer to their renewal date, automate a personalized renewal email series to remind members of benefits they’ve leveraged, the benefits they haven’t yet utilized, and any exciting upcoming events or opportunities they’ll miss if they don’t renew.
+
+TECH TIP: Nimble AMS Nimble Create is a visual template builder that allows you to easily build templates (no coding required) for branded, personalized, and information-rich content. You can use it to automatically pull member data and other details straight from your Nimble AMS system into your email content to provide a more personalized member experience.

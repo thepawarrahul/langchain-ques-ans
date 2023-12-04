@@ -1,0 +1,49 @@
+Catch the Winter ‘24 Nimble AMS release before the snow flies
+
+Winter is coming and Nimble AMS is here to deliver another amazing update!   
+
+We’re constantly updating Nimble AMS to bring you the best features possible to create amazing experiences and drive revenue. The Winter ‘24 release is no exception – read on to see what exciting enhancements you can expect this winter.
+
+Volunteer Management 
+Our new volunteer management solution provides the tools you need to create a successful volunteer experience. Easily share news about the latest volunteer opportunities and boost member engagement in volunteer positions. 
+
+The Nimble AMS volunteer management solution makes it easy for members to browse and apply for opportunities. When a member completes volunteer hours, all work is reflected in their account. Our solution can streamline the management of volunteer jobs and shifts. For example, you can use the feature to track an advocacy day letter-writing campaign (job) or an advocacy day event on Monday or Tuesday (shift). 
+
+Dynamic Grid LWC 
+In the Nimble AMS Winter ‘24 release, you can look forward to a new Lightning Web Component (LWC) with a flexible framework to create robust point-and-click solutions. This cutting-edge LWC provides unparalleled flexibility, allowing admins to easily configure and select data sources to present your records in a visually appealing card format. Users can take further actions based on the selected card.   
+
+The top benefits of the flexible LWC include: 
+
+- Support multiple data sources (SOQL or Apex-based) 
+- Build your own visually appealing cards with point-and-click solutions  
+- Use on an Experience site page or a flow  
+- Meet your association’s unique needs with a powerful framework 
+
+Nimble Actions 
+Nimble Actions make it easy to design no-code customization and facilitate work processes. 
+
+Unlock limitless possibilities with Salesforce Flows by using our new Nimble Actions to build orders, retrieve records, and write back data to Nimble AMS, all with point-and-click configuration.
+
+Here are some additional benefits of leveraging Nimble Actions: 
+
+- No code needed
+- Easy customization
+- Directly supports Salesforce Flows 
+
+Expo Logic Badge[On]Demand Integration 
+With our latest Nimble AMS release, you’ll be able to create a great first impression at your events. The Expo Logic Badge[On]Demand integration will take event check-in from minutes to seconds with on-demand badge printing.  
+
+When you integrate Nimble AMS with Expo Logic Badge[On]Demand, you’ll increase event registration convenience, allowing badges to be printed during registration, before event attendance, or during event self-check-in. The Expo Logic Badge[On]Demand integration saves time and increases security, ultimately reducing event check-in time to seconds. 
+
+Salesforce updates
+Get excited for these Salesforce updates coming in the Winter ‘24 release: 
+
+1. Salesforce Overall
+With Einstein Search, improve how you receive your search results. In Search Manager, configure searchable standard and custom objects, and capture search storage insights. You can also receive specific answers from a knowledge article with Einstein Search Answers.
+ 
+
+2. Sales
+Boost revenue intelligence and tack changes in your sales forecast by using the Forecast Insights dashboard. Use the Commit Calculator to test different scenarios and understand how changes to your pipeline can affect your bottom line. Optimize your sales strategy using the Product Insights dashboard and upload quota data using a CSV file. Try the optimized Einstein Account Management app to track formula fields over time with historical trend reporting. 
+
+3. Salesforce Flows
+With Flow Builder you can build screens that feel like single-page applications with reactive flow screen components. Send Salesforce data to external servers with HTTP Callout and transform collections of data with the Transform element (beta). Write and display custom error messages in record-triggered flows and migrate more kinds of workflow rules to flows with the Migrate to Flow tool. 

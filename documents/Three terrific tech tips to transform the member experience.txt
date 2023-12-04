@@ -1,0 +1,51 @@
+Three terrific tech tips to transform the member experience
+
+You’ve likely heard all about the importance of an association’s member experience in boosting engagement and retention. But have you taken any deliberate steps to improve your member experience? Does your organization’s membership make lives easier by offering tangible benefits with innovative technology?  
+
+Considering your member experience is vital for the health of your association, ensuring your organization stays ahead of industry competitors well into the future. Associations Now report by viewing the member experience holistically, organizations can increase membership growth, engagement, and retention.  
+
+Read our blog for three helpful ways that adopting innovative technology can empower your association to view the member experience holistically, preparing your organization for the future.
+
+How innovative technology transforms the member experience
+A recent study conducted by Salesforce also speaks about the importance of an organization offering an excellent experience—88% of customers say the experience a company provides is as important as its product or services. 
+
+Adopting innovative technology is a fantastic strategy to help your association transform its member experience and boost recruitment, retention, and revenue. Consider selecting association management software (AMS) that enhances your member experience in the following ways:
+
+1. Tangible membership benefits
+To improve your member experience, you’ll want to consider an AMS that accommodates members. Ensure the technology touches on these three areas:
+ 
+
+Recruitment and retention. Modern technology is vital to individuals both joining and investing in your organization. Ensure you find an AMS that is configurable so members can personalize their experience. When members personally connect with your association, their engagement expands, driving greater retention and recruitment rates.  
+Nimble AMS features the highly configurable Community Hub to match your organization’s brand and support your members’ efforts to personalize their experience.
+
+Networking options. Members join associations to make professional connections. Search for technology that equips your organization to increase member engagement, with a vibrant virtual community. Built-in networking opportunities will also attract new members to your association.   
+Use the Nimble AMS online community platform, Nimble Communities, to deliver a superior member experience and boost engagement by providing space for members to virtually connect and network.
+
+Member analytics. Better understand your members by leveraging predictive analytics and AI. Look for an AMS that includes a prediction builder to help you forecast what information your members might request, or which individuals are at risk of lapsing.   
+Leverage Nimble AMS Predictions to drive member loyalty and engagement. Built on Salesforce, AI and predictive analytics are central to Nimble AMS, helping your organization improve the member experience.
+
+2. Modern e-commerce
+Improve your member experience with an AMS that offers modern e-commerce. Look for technology that meets these criteria:
+ 
+
+E-commerce that multi-tasks. Members come to your e-commerce website with convenience in mind, so empower them to do more than buy merchandise. Allow visitors to register for events, manage their accounts, renew memberships, secure sponsorships, and make donations—all from the convenience of your e-commerce page.   
+With Nimble AMS’s Lightning Store, you’ll have the power of intuitive marketing to reach thousands of members and one-time customers, converting them to life-long members with effective e-commerce.
+
+Drive more revenue. With modern technology features like cross-selling functionality, your AMS can support your financial goals by ensuring your merchandise is marketed to and viewed by all members. Additionally, search for an e-commerce solution that guards against common pitfalls like abandoned carts to deliver a positive member shopping experience. 
+Use Nimble AMS’ Lightning Cross Sell to highlight related merchandise for members, encouraging personalization for the member experience and driving revenue for your association. Also, create automated abandoned cart reminder emails to send to members to encourage them to return to their carts.
+
+Offer various secure payment options. Elevate your member’s e-commerce experience when you select an AMS that offers myriad payment options like Apple Pay, Google Pay, stored payments, express payments, scheduled payments, and mobile payments.   
+Nimble AMS provides PCI-compliant payment options including Apple Pay, Google Pay, stored payments, express payments, and more. Offering multiple payment options improves the member experience, ensuring members continue to return to your e-commerce website.
+
+3. Seamless integrations
+Level up your member experience when you choose an AMS with integration options. To offer key membership benefits, look for an AMS that integrates with the following software:
+
+Learning program. Individuals join associations for professional development opportunities and certification requirements. Boost member engagement when you offer an integrated learning management program (LMS) that provides on-demand webinars, webcasts, self-paced courses, and videos. 
+When you integrate Nimble AMS with Crowd Wisdom, a Community Brands LMS, your organization will level up the current member experience by offering a highly personalized online learning solution.
+
+Career center. Members are always looking for career insights and networking opportunities within their industry. Find an AMS integration that offers innovative job board technology, career pathing resources, career coaches, and a placement service. The right tech will position you as a leader in industry career insights. 
+Integrate Nimble AMS with YM Careers, Community Brands software created to cultivate your members’ careers and increase member retention and recruitment.
+
+Events. Members look to their professional organizations for crucial industry events and networking opportunities. Offering in-person, hybrid, and virtual events is a fantastic way to boost member loyalty and provide a superior member experience. Integrate your AMS with event management software to maximize your ROI, meet event goals, and save your staff time. 
+Advance your association events by integrating Nimble AMS with Expo Logic, event management software part of the Community Brands family of solutions.
+

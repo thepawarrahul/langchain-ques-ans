@@ -1,0 +1,44 @@
+5 data security strategies to protect your association
+
+​Does your association implement the latest in data security best practices? Securing your organizational data is a crucial step in building member trust and establishing your reputation.  
+ 
+Unfortunately, Community Brands research found that only 19% of IT association professionals value data privacy and information security.  
+ 
+Break away from the pack—protect your data to create a superior member experience and build trust in your organization. Read our blog for the latest in data security strategies.
+Are you ready to take your association’s data security to the next level? Download our free on- demand, thought leadership webinar —Cybersecurity best practices: A treat for your entire association. Watch now.
+5 security best practices to guard your association’s data 
+Your members trust you with their personal information. Whether a member is making an online purchase or registering for an upcoming event, their information should be guarded.   
+ 
+Follow these five tips to protect your association’s data: 
+
+1. Familiarize yourself with cybercrime
+It’s wise to understand the different types of cybercrime affecting associations, how cyber fraud is committed, and how it can be stopped. The more you know, the better you’ll be able to identify suspicious activity and transactions, which you can shut down before it becomes a problem.
+
+Here are a few examples of cybercrime and cyber fraud:  
+1.Phishing: Occurs when a cybercriminal sends a fake email or text message that tricks an employee into sharing confidential business information. The email or text will contain a suspicious link that can contain viruses to corrupt systems and steal data or passwords.
+ 
+2.Malware: Malicious software like viruses or worms are examples of malware that damages or compromises systems or computers.
+ 
+3.Ransomware: This form of malicious software is used to lock a system or steal data. A cybercriminal will demand money to restore system access or return the information.
+
+Understanding the nature of fraud and taking steps to protect your association will ultimately discourage cybercriminals from attacking your online payment system. But keep in mind that cybercriminals will continue to devise new cyber schemes, so make learning a continual process. 
+
+2. Become PCI compliant
+To standardize the process of accepting, transmitting, and storing payment data, the Payment Card Industry (PCI) created a set of regulations mandating all organizations to abide by rules to reduce fraudulent activity. PCI–compliant organizations must complete an annual self-assessment questionnaire. To remain compliant, organizations must adhere to these guidelines when handling credit card data. 
+ 
+Look for modern association management software (AMS) to help your organization remain PCI–compliant. To protect your member cardholder data, you’ll want an AMS that stores only the account holder’s name, the last four digits of the Primary Account Number, and the card expiration date.  
+
+3. Lockdown your equipment
+It might be tempting to leave your desktop, laptop, tablet, or smartphone unlocked and ready to use at your discretion for processing memberships and donations. However, if you don’t password–protect your devices, you are putting yourself and your organization at great risk.  
+ 
+Ensure all devices are password protected and regularly change passwords. Limit administrative access so cybercriminals have fewer opportunities to hack your system. Educate staff on the need to protect their own devices, especially if they are given access to the network or cloud storage platform. 
+
+4. Secure payment data  
+Boost trust in your association’s e-commerce experience by securing all constituent payment information. To streamline the payment process and secure your data, leverage an AMS that offers stored payment options, where members can add, edit, and save payment methods. Utilizing a modern AMS that securely protects and remembers member information will build trust in your organization and your members will thank you for not having to pull out their wallets and re-enter their payment details for each purchase.  
+ 
+Use data security best practices to protect your member data, including two-factor authentication, session timeout thresholds, and Transport Layer Security (TLS) for browser encryption. Secure payment practices will create a positive e-commerce customer experience and build trust in your organization. 
+
+5. Train employees in data security best practices
+Ramp up cybersecurity efforts by training your staff on how to handle member and customer data. When your employees know the latest in data security best practices, they’ll be prepared to secure your organization’s data.  
+ 
+Create a culture of data security at your organization by hosting routine training events. Educate your entire team about phishing, malware, ransomware, and more cyber threats to help staff know when to contact IT. Additionally, understand your software vendor’s security practices so you can maximize your security services and train staff accordingly.

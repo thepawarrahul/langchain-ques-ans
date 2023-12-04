@@ -1,0 +1,41 @@
+The top 5 types of Salesforce Clouds for association professionals
+
+Are you interested in discovering what Salesforce Clouds can do for your association? Because Nimble AMS is built on Salesforce, choosing one of the different Salesforce Clouds can take your software investment to the next level.
+
+According to the Salesforce State of Marketing, innovation is necessary as member expectations continue to evolve—91% of Chief Marketing Officers said they must continually innovate to remain competitive. Salesforce reports that 71% of marketers said meeting customer expectations is more difficult than a year ago.   
+
+But how can your association adapt to changing member expectations? Turn to one of the top Salesforce Clouds to further your Nimble AMS investment and meet your organizational needs.   
+
+What are Salesforce Clouds? 
+
+Salesforce Clouds are types of Salesforce-built tools and services that can help your organization. The different Salesforce Clouds help manage a variety of organizational processes, boosting your technological ROI. Because Nimble AMS is powered by Salesforce, your association can easily integrate any of the types of Salesforce Clouds, granting you immediate value and meeting your members’ expectations.
+
+5 types of Salesforce Clouds for your association
+With 15 different clouds in Salesforce, it may feel overwhelming to decide which one is best for your organization. But here is some information to narrow down your Salesforce Cloud list: not every cloud is necessary to help you meet your goals or boost your ROI. To elevate your association, there are five types of Salesforce Clouds you should consider. 
+ 
+Benefit your staff and members by leveraging one of these top Salesforce Clouds:
+
+1. Marketing Cloud
+Is your association looking to engage with members across their entire journey? With Marketing Cloud, staff can leverage AI to anticipate member behavior and provide a personalized experience. Expect to automate your data to level up your marketing campaigns and inspire member loyalty. 
+ 
+According to Salesforce Customer Success Metrics, organizations that adopt Marketing Cloud report a 27% decrease in costs to acquire new constituents. The Massachusetts Dental Society (MDS) chose to level up its member experience by investing in Marketing Cloud. With the powerful combination of Nimble AMS and Marketing Cloud, MDS has easy data integration for staff and a personalized strategy for members. 
+
+2. Sales Cloud
+Is your organization hoping to boost productivity, generate leads, and increase revenue? When you invest in Sales Cloud, your association can diversify its revenue stream and build stronger relationships with members and one-time customers. 
+ 
+Salesforce reports organizations that use Sales Cloud see an increase of 44% in sales productivity and 38% faster deals closure. Sales Cloud and Nimble AMS will empower your team to work smarter, generate leads, and increase revenue.
+
+3. Salesforce Einstein
+Are you ready to try out AI at your association? Get predictive with your data when you use Einstein AI to discover insights about member loyalty, sales leads, and marketing campaigns. Salesforce Einstein uses simple point-and-click predictions rather than code, so you can easily leverage AI in your organization. 
+ 
+The Marine Corps Association & Foundation (MCA&F) used Salesforce Einstein to identify which members were at an elevated risk of lapsing. By leveraging Einstein AI and Nimble AMS, MCA&F renewed 25% of members at an elevated risk of lapsing.
+
+4. Service Cloud
+Is your organization looking to take member service to the next level? Service Cloud enables your staff to connect with members on their preferred digital platforms, offering advanced levels of personalization to reach members where they are. Use Service Cloud to automate your engagement process and access analytics with pre-built dashboards. 
+ 
+According to the Salesforce State of Service report, 77% of organizations surveyed reported that automating service-related procedures allowed them to focus on more complex work, up from 69%. Choose to integrate Service Cloud with Nimble AMS and you’ll be able to work across teams to provide the best membership experience at your organization. 
+
+5. Tableau Analytics
+Are you hoping to make your association more data-driven? With Tableau Analytics, member data can become the heart of each organizational decision, allowing you to improve the member experience and boost recruitment and retention. 
+ 
+Salesforce estimates there is a three-month payback period on investments like Tableau Analytics. When you choose to invest in Tableau with Nimble AMS, you’ll have increased data literacy in your organization and increased speed and accuracy in your decision-making process.

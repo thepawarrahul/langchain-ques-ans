@@ -1,0 +1,50 @@
+3 questions to ask at Washington DC AMS Fest 2023
+
+When you’re in the market for new association management software (AMS), it’s vital to do your research. Searching for a modern AMS is a team effort—that’s why Washington DC AMS Fest 2023 is the perfect event for your organization.  
+
+AMS Fest 2023 is an in-person event based in Washington DC, focused on AMS systems. With interactive boot camps and 7 CAE credits available, you’ll have multiple ways to learn about today’s AMS marketplace. At AMS Fest 2023, you can see more than 22 AMS product demos and talk directly to product vendors.  
+
+Don’t miss out on the Community Brands keynote session: How to Build Executive Buy-In with the 5 B’s. The session will feature an insightful roundtable discussion with trailblazing association leaders like our Nimble AMS customers, Maureen Joudrey of the Council on Foundations and Natasha Rocheleau of the Society of American Military Engineers. Discover how to collaborate with your staff and board to invest in the latest AMS technology.
+
+How to find the right AMS for your association at AMS Fest 2023 
+Are you ready to find the right association management software for your organization? Here are three questions to ask vendors at Washington DC AMS Fest 2023: 
+
+1. What do product upgrades look like for this solution?
+Software needs to be upgraded regularly to ensure you’re using the latest features and functionality. If you don’t routinely upgrade your software, your technology is at a higher risk of failure, potentially leaking member data. But with some AMS vendors, upgrades aren’t routine, easy, or cheap. Some vendor upgrades might cause customizations in your system to “break,” resulting in system downtime and requiring new, costly software customizations.  
+ 
+To avoid these challenges, look for an AMS vendor that includes regular, seamless upgrades included within the price of the software. This approach ensures your organization is keeping up with the latest technological advances without budget-busting fees and broken customizations. 
+ 
+What’s our answer? Nimble AMS by Community Brands is built on the Salesforce platform. The product mirrors the Salesforce approach to upgrades, which includes three product releases per year to ensure you can quickly take advantage of new functionality. Upgrades are automatic, at no additional charge. 
+
+2. How many versions of the software is your company currently supporting?
+At first, this might not seem like an important question to ask, but it is. Modern AMS systems are in the cloud, and every user should be on the latest version.
+
+What’s our answer? Nimble AMS is a true cloud-based platform. With three seamless upgrades a year, all our customers have access to the latest version of our technology. Nimble AMS offers instantaneous access to the latest product features helping your organization enhance your staff and member experience and boost your technology ROI.
+
+Here’s why choosing an AMS where all customers are on the latest version is important:
+1. Innovation requires it. To continuously deliver the latest technological capabilities, a software company must focus on innovation versus supporting multiple software versions.
+2. Better support and quicker fixes. If a software company has only one version to support, it can focus on one system. The software vendor can quickly diagnose any issues and deliver fixes.
+3. You won’t be left behind. Most associations looking for a new system are doing so because their old-school software has fallen behind. If your association is going to deliver a modern member experience, it needs to be running the latest and greatest software.
+
+3. How can this solution prepare us for whatever the future brings?
+According to the 2023 Community Brands Association Trends Study, 85% of association professionals and 77% of members agree that professional membership organizations that don’t innovate will no longer be a go-to source for professional development.
+
+The takeaway: To prepare for the future, you’ll want to consider investing in modern software. Here’s what to look for in a new AMS: 
+
+a. Cloud-based and mobile responsive. Giving your staff the ability to access key systems and data when they’re in or out of the office is vital for work today. A cloud-based AMS with mobile access empowers staff to adapt to any work situation and increase collaboration across teams.
+b. Leading technology. A modern AMS should leverage innovative technology like AI, predictive analytics, and automation so staff can stay focused on day-to-day tasks without being distracted by cumbersome manual
+c.Online community platform. Boost member engagement with an online community, ensuring members can connect virtually. One of the best ways to do this is to create a digital space for members to engage. Empower members to connect and gain access to relevant content with an AMS that offers online member community functionality.
+d.User-friendly and configurable. As your association evolves to meet members’ changing needs, your AMS should make it easy to configure many aspects of the product yourself. Easy to configure software is cost-effective because it meets your needs without the added cost of custom coding.
+e. Professional development resources. A modern AMS will make it easy to streamline professional development at your association and offer crucial career advancement opportunities for your members. Your AMS should simplify course registration and the creation of networking and career-related events. Look for an AMS that integrates with career center software and learning management software (LMS)
+
+What’s our answer? Nimble AMS is a configurable, cloud-based system that includes point-and-click process automation, AI, predictive analytics, professional development resources, and an online member community platform.  
+
+Learn more about the best AMS for your association
+Seeing an AMS in action is one of the best ways to understand its capabilities, how user-friendly it is, and how the overall system works. Discover the best AMS for your association by attending the expert consultant keynote session sponsored by Community Brands. During the session learn tips to work with your staff and board to find the best AMS vendor.  
+
+We’re excited to see you at the Washington DC AMS Fest 2023! Stop by our booth to learn more about why Nimble AMS is the most trusted AMS on Salesforce. Here’s when you can see us demo Nimble AMS:
+
+- November 7 at 10:30-11:10 AM 
+- November 8 at 2:00-2:40 PM
+ 
+We hope you’ll meet with our amazing Nimble AMS team: Jeff Bachelor, Collier Faubion, Steve Werner, Susan Stewart-Kelley, and Howard Pollock.

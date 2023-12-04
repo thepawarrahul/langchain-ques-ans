@@ -1,0 +1,51 @@
+How to improve your e-commerce customer experience to delight association members
+
+Many factors go into a great member experience: onboarding, engagement, and customer service – just to name a few. There’s one factor that might seem small but can make a big difference in how your association engages with members: your e-commerce customer experience.  
+
+Have you ever considered how your e-commerce experience can impact your members’ opinion of your association? A slow and outdated e-commerce customer experience can lead to frustration, discouraging members from using your website. However, a streamlined and modern e-commerce experience can enhance the member experience, encouraging engagement and adding value.  
+
+Learn even more reasons why your association should improve your e-commerce customer experience. Read our blog to get started.
+
+6 tips to improve your e-commerce customer experience
+It’s time to take your e-commerce experience to the next level. Here are six tips to get started:   
+
+1. Provide a modern online shopping experience
+First, it’s important to offer an e-commerce site with a modern, mobile-responsive user experience.  Your members are accustomed to modern e-commerce experiences and will expect a similar user experience with your organization. Aim to offer an e-commerce site where members can easily make purchases and complete transactions. 
+
+2. Make e-commerce convenient
+At the heart of a great member portal and e-commerce site is convenience. When you allow members to complete multiple transactions, in one place at one time, you’ll deliver a convenient e-commerce experience.
+
+Your members should be able to access your site and do the following: 
+
+Manage their account  
+Renew their membership  
+View and purchase merchandise and learning products  
+Register for events  
+Make donations
+ 
+When you empower members to complete multiple transactions and pay for outstanding orders and balances, you’ll deliver a convenient, e-commerce customer experience. Boosting shopping convenience can also decrease abandoned shopping carts. When members can complete everything in one location, they’re less likely to become frustrated or distracted and more likely to finish the transaction they started.
+
+3. Leverage automation and Artificial Intelligence
+One of the great things about a modern e–commerce website is that it allows you to leverage Artificial Intelligence (AI) and automation tools. AI and automation can add value by encouraging members to purchase more products and complete their transactions.  
+ 
+When your e-commerce site has built–in AI and automation tools, you can do the following:
+
+Based on past member activity, suggest similar products that might interest a member. For example, “Because you purchased X, you might also be interested in purchasing Y.”
+Present members with special offers. For example, when a member purchases an item, you can automatically create a coupon code for a special discount on related items, branded merchandise, or an upcoming continuing education event.
+Prompt a member to complete a purchase. With abandoned cart reminders, you can send an automated email to ensure members follow through with a purchase.
+Help members by predicting the answers they’re looking for, and providing that information proactively. For example, using a chatbot, you could proactively field frequently asked questions to improve the member e-commerce experience.
+4. Streamline purchases
+The last thing you want is to lose a purchase because of a clunky payment process. Make e-commerce purchases easy by offering convenient payment features.
+
+Look for a modern e-commerce site that includes the following features: 
+
+Mobile payment options to ensure members can pay from any device.
+Stored payment options, where members can add, edit, and save payment methods. Your members will thank you when they don’t have to pull out their wallets and re-enter their payment details each time they make a purchase.
+Scheduled payment options, to ensure members can schedule their membership dues, boosting member retention and fighting churn.
+Express payment option, so anyone can pay an invoice without needing to log into an account. With express payments, you can generate a unique payment URL for any order: membership, donations, event registration, and more. Automatically, a bill-paying page is created for easy payment by the member, an accounting department, or guests.
+Account updating is a feature that automatically updates stored payment expiration dates. This feature ensures members won’t be rejected at check-out just because their credit card date expired.
+5. Make e-commerce secure
+Your members and customers are more likely to buy if they know your site is secure. Be sure to use data security best practices, including two-factor authentication, session timeout thresholds, and the latest authentication and encryption protocol, Transport Layer Security (TLS), for browser encryption. Secure practices will create a positive e-commerce customer experience and give your association a good reputation.  
+
+6. Put the right technology to work.
+Using modern technology is the foundation for providing a superior member experience. Nimble AMS includes e-commerce functionality to support the approaches in this article (and more). With the Nimble AMS Lightning Store, you can build an e-commerce site that’s customized with your organization’s branding. The Lightning Store gives members and customers online access to membership, merchandise, event registrations, certifications, account information, donations, and more. 

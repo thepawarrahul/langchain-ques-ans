@@ -1,0 +1,31 @@
+The more you know Salesforce Person Accounts for associations
+
+
+
+Are you aware of the many benefits of Salesforce Person Accounts for your association? If not, it’s time to discover how Person Accounts can empower your member-based organization.
+
+Some of America’s leading businesses like New York Life, Bank of America, Voya, Philips, Target, and CVS are leveraging Person Accounts to revolutionize reporting. Person Accounts are also designed to work for associations, support a complex membership structure, and promote a connected member experience.
+
+Read our blog to discover even more reasons why your association should leverage Salesforce Person Accounts
+
+What is the history and background of Salesforce Person Accounts?
+Originally, Salesforce started as a Business-to-Business (B2B) tool. The core Salesforce customer relationship management (CRM) was initially created for business customers to communicate with other businesses. However, as Salesforce grew, customers expressed a demand for a Business-to-Customer (B2C) model. In response, Salesforce created Person Accounts to meet the B2C demand.
+
+But what are Person Accounts and why are they so helpful to associations? When it comes to the Salesforce platform, Person Accounts are essentially an account and a contact record combined. “The account record has a ton of power in the Salesforce platform, as it drives a lot of your processes and relationships,” says Nicole Adair, Salesforce Principal Solution Engineer. “The contact record captures critically important details about your constituents. When you combine these two, you get this magical record that has the power of an account but has all the details of a contact, and that is our Person Accounts.”
+
+Because associations often have a complicated membership structure including both individual and organizational members, when an association leverages Salesforce Person Accounts, it allows them to meet reporting needs by documenting transactions for both individuals and organizations. Nimble AMS utilizes Person Accounts because it best supports how associations work. Without Person Accounts, your association is at a reporting disadvantage because it limits your organization to a B2B model, rather than choosing to embrace a model that offers a connected member experience.
+
+“Nimble AMS was an early adopter of Person Accounts, said Jeff Golembiewski, Nimble AMS, VP of Business Solutions & Partnerships. “In 2011 we started using Person Accounts and we have just loved it ever since.”
+
+5 facts about Salesforce Person Accounts your association might not know
+Are you ready to learn even more about Person Accounts? Check out these quick facts:
+
+1. Person Accounts are the new standard. Contrary to what you might have heard, Person Accounts are not outdated or old technology. Salesforce is investing more in this technology as the platform grows.
+
+2. You can use Person Accounts and Business Accounts simultaneously. When you leverage Nimble AMS and Salesforce you can use Person Accounts and Business Accounts in the same organization.
+
+3. Person Accounts are a standard Salesforce object. Because Person Accounts are designed by Salesforce, they work in all standard Salesforce features, clouds, products, and AppExchange packages.
+
+4. There’s no added cost to leverage Person Accounts. Just like contacts and accounts, Person Accounts come straight out of the box with no added cost to your association.
+
+5. Person Accounts don’t tax your data storage. With Person Accounts, your data is listed in an account record and a contact record, essentially boosting your field space. Recently Salesforce has also upped an organization’s data standard storage, so leveraging Person Accounts has never been an issue for associations.  

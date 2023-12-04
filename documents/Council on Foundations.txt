@@ -1,0 +1,47 @@
+Council on Foundations
+
+COF leaves Personify to evolve with Nimble AMS
+An active philanthropic network, the Council on Foundations (COF), founded in 1949, is a nonprofit leadership association of grantmaking foundations and corporations. It provides the opportunity, leadership, and tools needed by philanthropic organizations to expand and enhance and sustain their ability to advance the common good. The Council empowers professionals in philanthropy to meet today’s toughest challenges, and advances a culture of charitable giving in the U.S. and globally.
+Council on Foundations Had Numerous Personify Pain Points
+When COF was initially using Personify, it seemed like a decent solution at the time. However, when the organization began to go through some significant changes, it was important that their technology had the ability to evolve with them. This is when COF began to encounter issues with Personify, such as:
+
+Inability to access and import data without significant help from IT
+Inability to configure to their needs without expensive customizations
+Upgrades were costly and complex, because customizations had to be rebuilt with each release
+​Nimble AMS on Salesforce Looked Promising
+​Because of the pain they were experiencing, COF started to look into other solutions. They were really impressed with what they saw in Salesforce, in general, including how their upgrades were managed, the fact it’s 100% cloud-based, and the variety of apps available in the AppExchange.
+
+They knew choosing a Salesforce-based AMS would be a significant change in direction, but it would be one they could definitely get behind.
+
+With that, staff members at COF started to look at solutions, like Nimble AMS, which offered an AMS on top of a platform. They went through the design study with NimbleUser, and in December 2016, they eventually chose to work with the technology partner on their transition project. By August 2017, the project had been completed.
+
+By choosing Nimble AMS built on the Salesforce platform, they now have plenty of opportunities to extend the system, because Nimble AMS integrates with multiple third-party applications.
+
+​Internal Operations Became Easy and Efficient with Nimble AMS
+​COF felt comfortable in many aspects of their relationship with NimbleUser. The support system was great, and Salesforce was also providing help when they needed it. There were no responsiveness issues in terms of needing solutions to their problems, and they felt the NimbleUser staff was knowledgeable and invested in being helpful. NimbleUser is also proactive about making sure COF is upgraded on the most up-to-date version at all times.
+
+Nimble AMS continues to evolve and grow with their organization, because of the Salesforce platform. COF staff feels that Nimble AMS makes it very easy for them to self-support. While their organization goes through changes and evolution, they’re able to take over administration and customization, allowing them to evolve very, very quickly, which is so valuable to their entire team.
+
+NimbleUser and Nimble AMS bring an understanding of how associations work, coupled with Salesforce’s ability to be leveraged to support the initiatives of organizations (membership, event registration, committee management, or whatever the goals may be).
+
+In particular, COF saw significant improvement in three specific areas, including:
+
+Staff efficiency equates to cost savings:
+Anyone on staff can enter and update records, which is a phenomenal savings in terms of efficiency. And, they can do it on any device!
+COF went from having a very small subset of the organization owning the system (IT, in particular), to everyone owning it.
+Nimble AMS is much easier for the executive team to support. In fact, they have full executive buy-in because it’s backed by the Salesforce platform.
+From an end-user perspective, the COF staff is writing and running their own reports, which they’ve never done before.
+There are much better data integrity controls in place; the chances of junk data getting into the system are significantly reduced​
+Members are more empowered to do things like:
+Update their own profiles
+Add records to their company
+Manage their company’s roster
+Updating Data:
+Getting records and data into the system is so easy. They no longer need to build workarounds.
+The system has a lot of things built into it to prevent integrity issues, and so it becomes much easier for COF to bring data in and manipulate it. Previously, it had gotten to the point where they weren’t even doing that.
+There were times when their organization had to pay around $10,000 to bring in a large list of records, where now they can do it themselves, saving them a ton of money.
+Nimble AMS integrates with most anything (because of Salesforce).
+The overall cost of ownership over time (annually for support, maintenance, etc.) is expected to decrease. When looking at the cost of support and the design and development work to add resources on to support the system versus having staff be able to use it, COF has cut their cost in half.
+“I’m very, very happy compared to what we came from. We made the right decision. It is the right system for us. I have no problem recommending it to folks. And I wish we had done this sooner.”
+
+Russ Barratt,Vice President of Technology, ​Council on Foundations

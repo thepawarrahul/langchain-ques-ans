@@ -1,0 +1,28 @@
+IHG Owners Association
+
+Found we’re better together.
+Have you ever stayed at an Intercontinental Hotel, Crowne Plaza or Holiday Inn? If so, those hotel owners and operators are a part of the IHG Owners Association, representing the interests of owners and operators of more than 3,400 hotels worldwide, in 56 countries throughout the world. Their mission “Better Together” brings together owners and operators to network and learn from each other.
+
+The Challenge
+The Owners Association realized they needed something better to manage their member information. Their legacy system was out-of-date and was costly to maintain and support. Integrations required too much manual intervention and the Owners’ staff could not manage regularly occurring tasks on their own.​
+
+Like many other associations, Owners struggled with a combination of disparate systems:
+
+Custom built database
+3rd party tools that are were not integrated. This required staff to manually update member names, contact information and information about the hotels they owned.
+Disparate, non integrated “Rogue” data sources including spreadsheets and word documents.
+“Our previous custom database was very limited in what we could pull out of the system. Even basic changes to the system were costly. We used to have a yearly event called a “flip over” where every time we got into a new year we had to pay a software consultant between $7,000-8,000 to adjust the dates so that basic functions like billing and invoices would work. It was a big deal and a big process. For example, every summer we run a membership promotion for the following year. Until that “flip over” happened we would have to track the following year’s revenues in a separate spreadsheet and then spend an entire day manually entering those deferred revenues into the database after the “flip over” took place.”
+
+BJ McMillan, Director of Finance & Administration, ​Owners Association
+
+The Result
+Nimble AMS provided the Owners Association with an enterprise-wide system and a true technology partner. With the implementation of Nimble AMS, the Association improved staff efficiency and organizational effectiveness by allowing staff to:
+
+Centralize data related to membership, events, committees and more. Rogue Data sources were eliminated
+Easily query the database for a variety of information.
+Easily communicate from the database with e-newsletters, marketing, committee communication, etc.
+Easily work within the system even if the staff member is not a daily user of the database.
+Easily manage web integration, including real-time updating of records, event registration, and membership renewal.
+Integrate with the IHG data system for easy sharing and updates from IHG (feeds) of key data.
+Access information across all personal/business devices.
+Extend Nimble AMS through the Salesforce AppExchange.

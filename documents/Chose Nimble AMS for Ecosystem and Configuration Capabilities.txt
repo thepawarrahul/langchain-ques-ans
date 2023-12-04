@@ -1,0 +1,31 @@
+Chose Nimble AMS for Ecosystem and Configuration Capabilities
+Challenge
+LeadingAge is a national association with approximately 6,100 members including non-for-profit organizations, state partners, business firms, individuals and other organizations in the aging and continuing care community.  LeadingAge provider members cover the spectrum of aging and care services, including senior housing, assisted living, nursing care, continuing care retirement communities and home-and-community based services. ​ LeadingAge was experiencing the following pain points in their previous AMS system:
+
+Lack of flexibility
+
+Inability to track interactions/engagements in an easy-to-use manner
+Inadequate system interface for staff, state associations, and constituents
+Inability to store addresses and other demographic data as needed
+Inadequate functionality for workflow, approval, and validation rules.
+Duplicate entry and data silos
+
+Booth sales were managed within ExpoCad but are then re-entered into the Association Management System so that the purchases show in the exhibitor’s Company record.
+Memberships for LeadingAge’s international sister organization IAHSA are online via an event management software with no data exchange or integration between it and the Association Management System, requiring the staff to manually update all of this additional information.
+Event session attendance records are not associated with their Association Management System record IDs and must be associated manually.
+Event session speaker planning (from abstracts to historical engagement) were managed in a different system with no data exchange or integration between it and the Association Management System.
+Enrollment applications for the Leadership Academy are not integrated with the Association Management System.
+Lack of change: Inadequate innovation, change and growth in all aspects of the previous Association Management System.
+Solution
+LeadingAge implemented Nimble AMS built on Salesforce.com to replace the existing Association Management System:
+
+World-Class CRM for an Association: Nimble AMS, built on Salesforce, provided LeadingAge with the power of a world-class Customer Relationship Management (CRM) system but with the association features they needed. Salesforce CRM is intuitive, user-friendly and extremely powerful, offering staff a true 360 degree view of a record.
+
+One-Stop Shop for Account Management: Nimble AMS would provide a single integrated system for account management as well as demographics, transactions, events and history, providing an effective way to manage the data for the entire association.
+
+Flexible and Powerful Platform: Nimble AMS is the most extensible Association Management System available because of the Salesforce platform. This platform allows for easy and seamless integration with a variety of 3rd party applications.
+
+An Innovation Machine: Salesforce has consistently been ranked the last two years as the Most Innovative company in the world by Forbes. This innovative CRM and platform makes Nimble AMS different than all others. Nimble AMS can provide groundbreaking new AMS features along with all of the innovation of Salesforce.
+
+Results
+LeadingAge is now: Positioned for future growth and able to meet evolving business objectives. Operationally efficient with automated workflow and business processes. Embracing innovative ways to collaborate in all areas of the association. Chatter provides an internal facebook-like interface right within Nimble AMS. Staff can comment, ask questions and stay in the know all within the context of an account.  Free of the numerous data silos by centralizing all aspects of the association in one central system. Some data silos functions are now fully managed in Nimble AMS as well as others are completely integrated. Staff has a better understanding of customer’s engagement.

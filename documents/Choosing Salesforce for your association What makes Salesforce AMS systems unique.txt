@@ -1,0 +1,66 @@
+Choosing Salesforce for your association: What makes Salesforce AMS systems unique?
+
+Today, many membership-based organizations are choosing association management software (AMS) built on an enterprise customer relationship management (CRM) platform. Choosing an AMS built on a CRM platform offers the functionality associations need to manage membership while leveraging CRM-specific features and benefits.
+
+Salesforce is an enterprise customer relationship management (CRM) platform that offers associations valuable member insights, helps to track interactions, and provides useful business intelligence on membership trends.  
+
+Read our blog to discover how Salesforce AMS systems work for associations, offering valuable CRM functionality to empower your organization.
+
+What is the difference between an AMS and a CRM?
+A customer relationship management (CRM) platform is a data-driven tool that streamlines customer relationships. CRM software tracks customer interactions, manages prospective relationships, and gives a bird’s eye view of your data. 
+
+Association management software (AMS) can manage all aspects of your membership, helping you recruit, engage, and retain members. Your organization can also use an AMS to set up, manage, and run webinars, conferences, and events. An AMS manages data and reports, optimizes sales and marketing efforts, and streamlines member payments and e-commerce initiatives.  
+
+Why should your association choose an AMS built on Salesforce? 
+Many associations look to Salesforce AMS systems to combine the power of the AMS and CRM platforms. A Salesforce-based AMS helps your association better fill gaps within the CRM platform for comprehensive member management. This solution can also be more cost-effective, saving your association time and money from extensive customization and configuration to create a solution that fits your needs. 
+
+When you choose Nimble AMS, built on the Salesforce CRM platform, you’ll get the best of the AMS and CRM platforms. Leveraging Nimble AMS can transform you into a data-driven organization, helping you exceed your strategic goals, and improve the member experience. With the winning combination of Nimble AMS and Salesforce, your organization can decrease manual maintenance—Nimble AMS upgrades alongside Salesforce, ensuring your two solutions are always compatible and you have the most innovative technology.   
+
+What are the unique features of a Salesforce AMS system? 
+So, why choose a Salesforce AMS? There are many benefits of Salesforce association management platforms.  
+
+Here are four reasons Nimble AMS and Salesforce offer the best solution for associations: 
+
+1. A connected member experience. The Salesforce platform serves as the foundation for a modern AMS, putting members at the heart of an association’s activities. Salesforce fully commits to a connected customer experience through its Customer 360 feature, which centralizes customer data across different Salesforce platform services and external systems, like your AMS. Staff can view all member information in one location, creating a more connected and unified experience across all channels and departments.
+
+Customer 360 uses Person Accounts when building profiles. Person Accounts view organization and individual accounts as equals. Why is this important? For professional associations, your members are primarily individuals, but you’ll likely also have membership levels for businesses, including your suppliers, vendors, and other partners. While many trade association memberships include organizations, your interactions will be with individuals. You’ll need an AMS to facilitate operations between organizations and individuals.  
+
+Nimble AMS embraces the Person Accounts data model, allowing our team to easily leverage the solution to fit your membership structure. We use Person Accounts because it’s designed for associations and can scale to meet the needs of complex member-based organizations. With the combination of Nimble AMS and Salesforce Person Accounts, you’ll be able to support a connected member experience and fully leverage your association data.
+
+2. Version consistency and pain-free upgrades. If you use Facebook, Google, or Twitter, you’re likely unaware of the version you’re using. However, you’re likely using the most recent release, because the update is automatically issued, meaning everyone is on the same product version.  
+
+Unlike old-school software, which often forces customers to wait for big, costly updates, Salesforce provides a continuous stream of upgrades and innovation, you always have the latest technology, without the extra time, costs, or hassle. Because Salesforce is cloud-based, you receive these upgrades quickly and painlessly.  
+
+Nimble AMS is the only Salesforce-based AMS where all customers are on the same AMS version. Our team offers continuous upgrades, providing three seamless software updates a year to ensure your association is always on the latest version.   
+
+Typical AMS upgrades can be expensive, with fees so high that some associations stop implementing upgrades altogether and try to get by with outdated software. However, Nimble AMS includes upgrades in our service, meaning no additional costs for technology updates.
+
+3. World-class security and reliability. Associations collect and store personal and sensitive information about their members and employees. Whether you collect contact information or billing methods, keeping your data safe is essential for building and maintaining trust with your partners and members. Security breaches can damage your organization’s reputation. When you use services and tools with high-security features, you assure your members that you are dedicated to keeping them and their information safe.  
+
+Salesforce offers world-class data security and significant uptime to help ensure your data is safe and your system can scale smoothly as your association grows. When you use Salesforce, you can experience advanced protection through its various features, including:  
+
+Multi-factor authentication   
+Custom domains   
+Encryption   
+Login IP ranges   
+Access restrictions   
+Data recovery  
+Nimble AMS, built on Salesforce, implements the best data security practices, offering an in-house Security and Compliance team staffed by experts that run a strong information and risk management program to meet data privacy regulations and expectations. Because Nimble AMS and Salesforce value transparency, your association can always access insights on your security and performance functionality.   
+
+Routinely leverage these security resources to build trust with your members, showing you’re invested in software that best protects their data. Regardless of your industry, you can meet your organization’s compliance requirements with Nimble AMS and Salesforce. 
+
+4. The latest technology. When choosing an AMS platform, accessing the latest technology is essential. Technical advancements can help your organization improve its efficiency by automating tasks and predicting outcomes. Additionally, you can boost your organization’s competitiveness by investing in new technology. When you offer more specified services and increased efficiency, your organization will be more attractive to potential members and key stakeholders.  
+
+Nimble AMS leverages Salesforce to deliver the latest technology — such as process automation and artificial intelligence (AI) — to make associations smarter, more effective, and more efficient.  
+
+For example, Nimble AMS uses the Salesforce Einstein AI technology to help associations make stronger decisions by predicting and delivering member needs and wants. Nimble AMS customers use Salesforce Prediction Builder, which allows you to establish point-and-click AI. Einstein can make predictions and provide membership guidance, equipping your staff with the tools needed to address a potential membership lapse.  
+
+Nimble AMS also uses Salesforce Flows to help you save valuable staff time with automated processes, all through clicks-not-code. Automation can boost process efficiency for submitting approval requests, creating emails, and updating records or tasks. All it takes are a few simple clicks in Salesforce Flows.
+
+How Nimble AMS and Salesforce support associations with training functionality   
+When adopting a Salesforce-based AMS, your employees will need time to learn all the new features. Staff might have to navigate new interfaces or unfamiliar functions as they experience how your AMS works with Salesforce. Figuring out a new system and configuration can be challenging for employees as they try to carry out regular operations.   
+
+Salesforce offers Trailhead, a training system that helps teach users about different features and functions. This tool is greatly helpful when implementing a Salesforce upgrade — it uses various techniques and modules to walk employees through changes, helping staff understand how updates work.   
+
+As a Salesforce partner, Nimble AMS works to ensure its customers are maximizing their investment by using the latest and greatest functionality. One way Nimble AMS makes this a reality is through myTrailhead, an online training program that makes it easy for associations to embrace technology training. The Nimble AMS myTrailhead, allows your company to create and deploy customized Salesforce AMS training programs. myTrailhead can help you learn about features unique to Nimble AMS, so you can better use its functions and updates alongside Salesforce.   
+

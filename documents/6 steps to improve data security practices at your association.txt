@@ -1,0 +1,52 @@
+6 steps to improve data security practices at your association
+
+Strong data security practices are vital for the integrity of your association. But how secure is your organizational data? Breaches are highly detrimental to all organizations. Not only do you risk the trust of your members by mismanaging their data, but you risk millions of dollars in recovery efforts. 
+ 
+Shockingly, the Community Brands Association Trends Study reports that just 28% of members rank their organization as an excellent technology user when protecting member data and offering secure transactions.  
+ 
+Prioritize your members by protecting your organization’s data. Keep reading for six tips on how to improve data security at your association.  
+
+Are you ready to embrace strong data security practices at your association? Learn more about cybersecurity dos and don’ts during our free on- demand, thought leadership webinar: Cybersecurity best practices: A treat for your entire association. Watch now!
+
+The dos and don’ts of data security at your association
+To keep your association’s data secure, you’ll want to avoid certain practices and implement others. Follow these tips to secure your organization: 
+ 
+
+1. Empower everyone in your organization to become a data steward
+ 
+Take steps to train each employee about your data practices, making all responsible for the maintenance of your records. Ensure everyone can help if a data breach occurs.  
+ 
+Don’t rely on an individual to manage your data. Selecting an individual as the sole steward of your data, as opposed to a group, is unwise. However, it’s okay to refer to experts for data security insights to assist with your organization’s security training.  
+
+2. Create a data recovery plan
+Add a simple recovery outline to your data governance plan to assist your staff if you ever face a data breach. Consider including your AMS vendor and security providers in your plan for easy reference.
+
+If your association doesn’t have a security plan and your data is leaked, you risk losing crucial time as your staff scrambles to deal with the damage.  
+
+TECH TIP: Become an association driven by data security when you create a data governance plan. When strategizing your plan, consider how your data drives your association, how long you should keep certain records, and how often you should clean your system.
+
+3. Optimize all password practices 
+
+To guarantee your association’s systems are secure, implement a password vault and a password generator. You’ll also want to train staff on the risks of unsafe password practices.  
+ 
+Some examples of problematic password practices include reusing passwords or using a pattern. Train employees to never use personal passwords on multiple systems.   
+
+4. Create a culture of data security
+Routinely educate employees on your data security practices and encourage staff to come forward with any security questions. Conduct training on phishing so staff can recognize a risky link or attachment and report anything suspicious to IT.   
+ 
+If you accidentally click a suspicious link in a phishing email, don’t try to cover up your mistake. Hiding the issue only escalates the risk of a data incident. 
+ 
+
+TECH TIP: When you choose Nimble AMS, all your member data is regularly backed up on Salesforce’s servers to ensure you never lose records. Rest easy knowing your data is getting best-in-class security monitoring and protection, all while safely stored in the Salesforce cloud.
+
+5. Update all organizational software
+When employees are prompted, encourage all staff to update and restart their systems to keep your organization’s data secure. To encourage more software updates, have IT send reminder emails regarding important security upgrades.
+
+Don’t avoid software updates. Ignoring updates on your computer, phone, or work software welcomes security risks. Updates may feel inconvenient, but they routinely involve security upgrades, so it’s unwise to ignore these notices.  
+
+6. Be knowledgeable about your vendor’s security practices
+Understanding what level of protection and recovery your vendor offers is crucial to maximizing your security service. Ensure your vendor has extensive servers to back up your data in the event of a privacy lapse. 
+
+If you don’t know your vendor’s security practices, you won’t be prepared to write your recovery plan, nor will you be ready if a data breach occurs.  
+
+TECH TIP: Built on Salesforce, Nimble AMS implements the best practices in data security , offering an in-house Security and Compliance team staffed by experts that run a strong information and risk management program to meet data privacy regulations and expectations.

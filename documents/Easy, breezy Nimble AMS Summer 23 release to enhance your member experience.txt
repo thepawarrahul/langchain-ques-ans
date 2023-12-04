@@ -1,0 +1,42 @@
+Easy, breezy Nimble AMS Summer ‘23 release to enhance your member experience
+
+
+
+Is improving the member experience one of your most vital organizational priorities? If so, you’re not alone.
+
+According to the latest Community Brands Association Trends Research, 53% of association professionals report that enhancing the member experience is their most important business objective. A great method to improve the member experience is through personalization. While only 24% of professionals report investing in personalization technology, 34% say they plan on investing in the future.
+
+Did you know that creating amazing member experiences and working to personalize the member journey is at the core of the Nimble AMS product strategy? Our Summer ‘23 release makes significant advances in our product strategy —we’re bringing you the best features to personalize member experiences and empower your entire association.
+
+Here’s what you can expect from our latest release.
+ 
+
+Hybrid Model for Visual force and Experience Cloud support
+Are you ready to embrace innovation at your own pace, without disrupting your current operations?
+
+We understand that true change takes time. In response, Nimble AMS is introducing a hybrid model strategy. The hybrid model allows you to gradually adopt the new Experience Cloud Community Hub capabilities while still maintaining some of the existing configurations in Visualforce.  
+
+Events Discovery in Experience Cloud
+Promote your upcoming events effortlessly within Experience Cloud by leveraging Lightning Web Components (LWCs.) This feature adds eye-catching event showcases to your Experience Cloud Lightning pages. With an intuitive drag-and-drop capability, you can create engaging event listings that captivate your audience and drive attendance.
+
+New payment methods including Apple Pay and Google Pay
+You now have more payment options, including Apple Pay and Google Pay, driving more revenue with a superior member experience. In the last month, 45.4 million Americans used Apple Pay to make at least one transaction. More payment options will streamline the e-commerce checkout experience, and you’ll see increased e-commerce sales and lower cart abandonment.
+
+Additional digital payment options will also appeal to your younger members. 74% of Gen Z say that accepting new forms of digital payments improves their perception of a brand while 60% of Gen Z say that they would stop doing business with a brand after 2-3 poor experiences.
+
+Deferred revenue improvements  
+Nimble AMS has made enhancements to streamline the reporting process, ensuring you have the tools you need to effectively manage your revenue.  
+
+Known Issues List enhancements
+The Summer ’23 release introduces a search capability allowing you to quickly find specific issues. We’ve created a “This Issue Affects Me” button, empowering you to self-report issues and receive timely updates on the status. We’re committed to providing exceptional support and ensuring a seamless experience for our customers.    
+
+And, so much more…
+Solution Hub is now a primary feature in Nimble AMS. If you need a solution to solve additional organizational challenges, then the Nimble AMS Solution Hub is a great resource for your association to leverage. Search for add-on applications to increase operational efficiency and solve problems through time-saving solutions.
+
+In the Summer ‘23 release, look for these additional updates from Salesforce: 
+Salesforce Flows and process management updates
+Nimble AMS is here to help you navigate the new Salesforce Flow changes.  To assist with the changes, Nimble AMS disabled the creation of new Process Builder processes, but your team can still activate, deactivate, and edit them. With the Migrate to Flow tool, convert processes with scheduled actions to flows. You can also delete a flow or process version from a managed package.
+
+To see additional recommendations and guidance from our product team about Salesforce platform changes, please visit NimbleLand.
+
+With the Nimble AMS Summer ‘23 release, you can continue to drive amazing member experiences and personalize the member journey. Leverage new features like Hybrid Model, Events Discovery, Apple Pay, and Google Pay to take your association to the next level. 

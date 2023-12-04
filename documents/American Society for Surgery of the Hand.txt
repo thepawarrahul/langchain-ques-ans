@@ -1,0 +1,26 @@
+American Society for Surgery of the Hand
+
+In 2015, American Society for Surgery of the Hand (ASSH) turned to Nimble AMS for a Salesforce-based AMS that would support new and innovative approaches to their business challenges. Today, ASSH is taking innovation to new levels, creating efficiencies by automating hundreds of processes for everything from data updates and reports to member communications. Staff members from any department can build multi-step, automated workflows and approvals using point-and-click Salesforce Process Builder functionality. This means ASSH can focus on providing benefits to members instead of performing manual tasks.
+
+“Nimble AMS, built on Salesforce, is the foundation for anything we can think of. We’ve been able to automate hundreds of processes, which saves our staff countless hours each day.”
+
+Jake Adler, Chief Technology Officer
+ASSH
+
+Summary
+The entire staff feels empowered to innovate and continually looks at ways to streamline both member-facing and internal processes. This is possible because ASSH uses Salesforce-based Nimble AMS to increase productivity and save time.
+
+Challenges
+Staff members were spending valuable time on manual processes including data updates and communications. The organization knew Salesforcebased Nimble AMS could help them work smarter and faster.
+
+Results
+Using Salesforce-based workflow functionality with Nimble AMS and their membership data, ASSH now automates hundreds of processes, saving valuable staff time. For example, ASSH automated their fellowship application process and it is now one of their biggest revenue drivers.
+
+“Our previous systems required us to pay someone who understood the systems to set up process automations with custom code. With Nimble AMS, built on the Salesforce platform, we now have constant innovation with each seasonal release. This means we get to leverage things like automation, AI, chatbots… Better yet? Because it is intuitive, the staff at ASSH is excited and empowered to find new ways to leverage the technology.”
+
+Jake Adler, Chief Technology Officer
+ASSH
+
+About American Society for Surgery of the Hand
+ASSH is the oldest and most prestigious medical society dedicated to the hand and upper extremity. Their mission is to advance the science and practice of hand and upper extremity surgery through education, research and advocacy on behalf of patients and practitioners.
+

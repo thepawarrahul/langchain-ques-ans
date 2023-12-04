@@ -1,0 +1,56 @@
+Discover what’s new in Salesforce: Summer ‘23 release highlights
+
+As technology rapidly evolves, staying updated with the latest Salesforce features and enhancements is key to achieving organizational goals and maximizing your efficiency. Not only do Nimble AMS customers receive three annual software upgrades, but they also get three yearly Salesforce updates.
+
+That’s a lot of enhancements to keep up with! Our team is here to break down a few of these exciting Salesforce Summer ‘23 enhancements. 
+
+5 Salesforce Summer ’23 release highlights that associations will love
+One of the core product principles at Nimble AMS is “Best practice is our only practice.” The Nimble AMS team works with customers to get the most out of Nimble AMS and Salesforce. 
+
+We selected these recent Salesforce Summer ‘23 release highlights to help empower our customers and association members.  We want to catch you up on better AI predictions, rules around rewarding and engaging loyal members, and how to create a smoother staff experience by setting up business processes from a single screen.
+
+Here are five highlights from the Salesforce Summer ‘23 release:  
+
+ 1. Einstein Builders 
+
+
+An Einstein Builder is a set of AI-powered tools and features within the Salesforce platform.  With Einstein Prediction Builder, you can now enrich your AI predictions using additional data from a related object. Users can leverage the power of AI without the need for advanced technical skills or extensive knowledge of data science. The intuitive interfaces, drag-and-drop functionalities, and guided processes make it easy for users to build and deploy AI models. 
+
+What will this update do? This feature will allow users to join a primary object with related objects using their lookup fields. Using additional data for a prediction can deliver more intelligent predictions and insights.
+
+2. Focus your view with more dashboard filters
+
+
+The increased limit of five filters (from the original three) on Lightning dashboards offers greater flexibility and customization options. Associations can now include additional filters such as Region and Created Date on their dashboard to allow for refining displayed data according to specific criteria. This enhanced flexibility empowers you to create more versatile and tailored dashboards that cater to the needs of different teams and business units without the previous constraints. Previously, if you wanted to create separate dashboards for different needs, you had to duplicate the entire dashboard and set up the filters specific to each need.
+
+What will this update do? This feature helps you reuse the same dashboard for different purposes while preserving the existing filters that are already established. For example, previously, if you filtered on Stage, Opportunity Owner, and Type, you couldn’t add a Region filter that would allow you to reuse the dashboard for all your teams. Now you can include the Region filter and have enough room for a Created Date filter too.
+
+3. Loyalty Management App  
+
+
+The Loyalty Management App, part of the Marketing Cloud, automates administrative tasks, such as program enrollment, tracking, and reward fulfillment. This feature helps to streamline operations and save time. You can now create rules and conditions to reward members for joining a loyalty program, thus increasing member engagement.  
+
+What will this update do? Members can easily scan their loyalty program’s promotions and events on the Promotion Calendar. Staff can automate member selection for tier upgrade assessment and tier change, as well as the processes to filter ineligible transactions and redeem vouchers (allowing members to opt out of promotions). Additionally, your team can consolidate members’ fixed non-qualifying points in real-time and provide partner permissions to add their Experience Cloud site program data.
+
+4. Build Screen Flows with Reactive Components  
+
+
+You can now build flows with Reactive Components, allowing more to happen on a single screen without the need to click “next.” This feature upgrade offers a smoother and more dynamic staff experience, minimizing mistakes.
+
+What will this update do? With the new update, you can configure supported standard screen components, or your custom Lightning web components, to react to changes in other Flow Screen components, all on the same screen. Build screens that feel like single-page apps and reduce the number of screens your user needs to click through. Previously, components on the same screen couldn’t talk to each other—if you needed one component to influence another, you placed them on separate screens.
+
+Screen Flow reactivity means your Screen Flow component updates the properties of other components on the screen based on user input. For example, you can make a Name component’s First Name field react to the Text component output.
+
+Take advantage of this Flows functionality by opting into the Beta, and explicitly saving the API version 57.0 or later.
+
+5. Review Guest User object, record, and field access for sites  
+
+
+When granting public access to your Experience Cloud sites, ensure that unauthenticated guest users have restricted access to the intended content. Utilize the Guest User Sharing Rule Access Report page in Setup to easily identify any records that may be vulnerable to unauthorized exposure. 
+
+What will this update do? When you allow public access to your Experience Cloud sites, make sure that unauthenticated guest users are only able to access what you want them to access. Use the Guest User Sharing Rule Access Report page in Setup to quickly see what records are at risk of exposure, so you can quickly adjust access to important data.
+
+Where: This change applies to LWR, Aura, and Visualforce sites accessed through Lightning Experience and Salesforce Classic in Enterprise, Performance, Unlimited, and Developer editions.
+
+How: Review results in the new Guest User Sharing Rule Access Report in Setup, and change record access levels as needed in your guest user sharing rules.
+

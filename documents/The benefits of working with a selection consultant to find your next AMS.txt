@@ -1,0 +1,22 @@
+Marine Corps Association & Foundation
+
+Improving member retention with Nimble AMS Predictions and Salesforce Einstein AI
+The challenge
+In 2018, Marine Corps Association & Foundation (MCA&F) faced a challenge. They needed to customize their association management software (AMS) so much that they couldn’t also keep up with product upgrades and found it difficult to engage with members online.
+
+“We had to customize our previous software so much that we couldn’t keep up with product upgrades. We’re now able to do what we need to do in Nimble AMS while saving time. And, since Nimble AMS provides continuous upgrades automatically, we’re always using the latest version of the product.”
+
+Jaclyn Baird, Director of Membership Services, MCA&F
+
+The solution
+They turned to Nimble AMS for an easy-to-use member management solution with strong reporting and analytics that saves staff time and improves member engagement. MCA&F liked that Nimble AMS is built on the Salesforce platform, making it easy to upgrade and integrate with multiple other solutions.
+
+MCA&F also worked with the Nimble AMS team to tackle a challenge many associations face: membership retention. They were seeing 1,000 lapsed memberships each month. Using Nimble AMS Prediction Builder – which leverages the artificial intelligence (AI) technology, Salesforce Einstein – they implemented an innovative solution that automatically identifies members at high risk of lapsing and presents staff with suggested actions to take to prevent non-renewal.
+
+The results
+Working with the Nimble AMS team and using the built-in point-and-click AI tool in the product, MCA&F implemented a solution that renewed 25 percent of members at high risk of lapsing. They also cut time spent on dues processing, reporting, and analytics in half. In addition, using the Nimble AMS Community Hub, MCA&F now engages more with members online to deliver a better overall member experience.
+
+“We’re able to process memberships and run reports so much faster with Nimble AMS. We also worked with the Nimble AMS team to build an AI-driven solution that automatically identifies members at risk of lapsing, and then helps us take quick action to save the memberships. All of this has led to return on our investment sooner than we expected.
+
+Jaclyn Baird, Director of Membership Services, MCA&F
+

@@ -1,0 +1,46 @@
+4 ways to celebrate Cybersecurity Awareness Month
+
+How much does your association prioritize cybersecurity? According to the Community Brands Association Trends Study, just 28% of members rank their organization as an excellent technology user when protecting member data and offering secure transactions.  
+
+Data breaches are highly detrimental to organizations. Not only do you risk the trust of your members with mismanaged data, but you also risk a hefty price tag. IBM reports the average cost of a data breach was $4.35 million, and the average cost of a ransomware attack was $4.54 million.   
+
+Guarding your association against cybersecurity threats is crucial in building member trust and protecting your reputation. During this Cybersecurity Awareness Month, empower your staff, strengthen your data, and earn your members’ trust.   
+
+Keep reading to discover four ways your organization can celebrate Cybersecurity Awareness Month! 
+
+Want to learn Cybersecurity tips to protect your association? Attend our thought leadership webinar on October 31, 1:00 PM ET: Cybersecurity best practices: A treat for your entire association. Register now!
+
+What is Cybersecurity Awareness Month?
+In 2004, the United States government declared October as Cybersecurity Awareness Month to provide much-needed cybersecurity best practices for individuals and organizations. Since the early 2000s, Cybersecurity Awareness Month has provided helpful information to guard organizations against online threats like phishing or data leaks.
+
+What is the theme for Cybersecurity Awareness Month 2023?
+The 2023 theme of Cybersecurity Awareness Month is Secure our World. This year’s theme encourages Americans to adopt improved online safety behaviors and ongoing cybersecurity habits. To celebrate Cybersecurity Awareness Month, the Cybersecurity & Infrastructure Security Agency (CISA) has launched a national public service announcement to encourage individuals and organizations to embrace cybersecurity best practices.
+
+4 steps to celebrate Cybersecurity Awareness Month
+Are you ready to celebrate Cybersecurity Awareness Month at your association? When you make an effort to learn safe data security practices, your association will be less at risk for exposure.  
+ 
+Here’s how to get started: 
+
+1. Enable a multi-factor authenticator
+If your association doesn’t already use a multi-factor authenticator (MFA), now’s the time to adopt one. MFA keeps your association secure by requiring all staff and members to navigate through a two-step process to prove their identity. With the two-step process in MFA, your system security is greatly increased, and cyber criminals must work harder to hack into your records. 
+ 
+During Cybersecurity Awareness Month, ensure all your software systems including your association management software (AMS) utilize an MFA, taking the necessary steps to secure your member data.
+
+TECH TIP: Because Nimble AMS is built on Salesforce, the system leverages Salesforce’s best-in-class data security practices, including its multi-factor authenticator (MFA). With the powerful combination of Nimble AMS and Salesforce, rest assured that your data is in good hands.
+
+2. Improve password practices
+Keep your association protected by training your staff and members on the importance of using strong passwords. An example of a strong password includes at least 12 unique characters. It’s also unwise to use the same password for your work device that you use for a personal one. 
+ 
+During Cybersecurity Awareness Month, consider investing in a password manager at your organization. Password managers are tech solutions that help to keep staff accounts safe by generating secure passwords that meet all requirements. When you use a password manager, it stores all passwords and auto-fills all the necessary details when you arrive at a site.
+
+3. Report phishing attempts
+Phishing is the criminal practice of sending emails, direct messages, or social media posts with a bad link or an attachment with a virus. If someone at your association clicks on a phishing link, they can leak information to cybercriminals or install malware onto your company’s device. 
+ 
+The best way to combat phishing is to train your staff on how to recognize a phishing attempt. Offer clear examples so employees know the signs of phishing and how to report it when an attempt occurs. Explain to staff that being cautious about cybersecurity is the best practice. When in doubt, immediately report suspicious emails, direct messages, or social media posts to IT.
+
+TECH TIP: Level up your staff’s cybersecurity training with Nimble AMS and myTrailhead. MyTrailhead takes staff training to the next level with engaging content, interactive assessments, learning paths, and gamification elements.
+
+4. Update all software
+The simplest way to secure your association’s data is to keep your system updated. Cybercriminals are always searching for vulnerabilities in a system to take advantage of outdated code and expose your data. To prevent this from happening, always upgrade your software, anytime an update is available.   
+ 
+During this Cybersecurity Awareness Month, ensure your team schedules software downloads directly from the source to prevent unlicensed versions carrying malicious code from taking over your system. Consider making your software updates automatic to protect all staff from cybersecurity threats. Or have IT send mass emails alerting staff about important software updates.  

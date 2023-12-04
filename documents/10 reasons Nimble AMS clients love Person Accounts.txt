@@ -1,0 +1,51 @@
+10 reasons Nimble AMS clients love Person Accounts
+
+Are you looking for association management software (AMS) built on the Salesforce platform? There’s a fact you need to know: Your association has a choice of data models to best manage your records, and the Salesforce Person Accounts data model is ideal for associations.  
+
+What are Salesforce Person Accounts and why is the data model the best choice for associations? “If you’re familiar with Salesforce, you’ll know that the account record has a ton of power in the platform, as it drives a lot of your processes and relationships. The contact record captures critically important details about your constituents. When you combine these two, you get this magical record that has the power of an account but has all the details of a contact, and that is our Person Accounts,” said Nicole Adair, Salesforce Principal Solution Engineer.   
+
+The Person Accounts data model helps you easily manage and report your complex member data. Salesforce Person Accounts were created to support the way associations work. This is the reason Nimble AMS leverages the Person Accounts data model—to empower associations like yours. 
+
+Continue reading to discover even more reasons associations love Salesforce Person Accounts.
+
+What are Salesforce Person Accounts and what makes the data model different from a business account or Contacts/Accounts? 
+Salesforce offers standard data models including Contacts/Accounts. Contact/Accounts is a B2B data model, supporting companies with transactions from organizations, not individuals. Individual transactions are tied only to the account record, and there is no connection to the contact record.
+
+However, Person Accounts support both B2B and B2C data models, aligning with the way associations and nonprofits work. Salesforce Person Accounts show activity and transactions related to both organizations and/or individuals.  
+
+Because associations have transactions at both the organizational level (corporate dues, sponsorships, expo registrations, etc.) and the individual level (individual dues, conference registrations, committee participation, etc.), the Contacts/Accounts model is not an ideal choice for associations. If an association were to use association management software with the Contacts/Accounts data model, reporting would prove a major challenge. It would be nearly impossible to track engagement as a member changes jobs, or as companies acquire one another. 
+
+Want to learn more about Salesforce Person Accounts? Check out our on-demand webinar: Why You Should Love Salesforce Person Accounts. Watch now.
+
+10 reasons Nimble AMS customers love the Salesforce Person Accounts data model
+There are many reasons associations love Salesforce Person Accounts. Here are the top 10 reasons Nimble AMS customers love the Person Accounts data model: 
+
+1. Salesforce Person Accounts are designed to support the way associations work
+Salesforce built the Person Accounts data model for the way associations and nonprofits work – where members, donors, and constituents may be individuals and/or organizations. Simply put, it’s the logical data model for associations.
+
+2. Salesforce Person Accounts are used by many of the world’s largest organizations
+Salesforce Person Accounts are used by many of the world’s largest organizations including New York Life, Voya, Bank of America, Target, Phillips, Cochlear, CVS, Roche, and more. Large organizations see the value of using the Person Accounts data model, confirming that it can scale to meet the needs of even the most complex organizations. 
+
+3. Salesforce Person Accounts support a connected member experience
+Using a Salesforce-based AMS like Nimble AMS that leverages Person Accounts, helps you see all your member data in one location. Connected data makes it easy to deliver connected member experiences across all channels and departments.
+
+4. Salesforce Person Accounts offer a simplified user experience
+Person Accounts were designed to streamline the user experience. For example, instead of your staff having to look at one tab for accounts (organizations) and another tab for contacts (individuals), Salesforce Person Accounts gives them a simplified experience by only having to look to the account tab to see both organization and individual information.
+
+5. Salesforce Person Accounts support quick and easy search results
+With Person Accounts, your member data shows up just once in search results. However, in alternative data models, the same member can show up twice, meaning that both the account and contact would appear in search results, potentially creating confusion.
+
+6. Salesforce Person Accounts facilitate more unified reporting
+Since Person Accounts provide both an account and a contact, which are maintained in tandem, reporting works as expected, making it easier to see the big picture. For example, when reporting on donations, all donations would be listed in one report regardless of whether they came from an organization or an individual.
+
+7. Salesforce Person Accounts provide consistency
+All records (including individuals and persons affiliated with an organization) are recorded in Person Accounts. Centering all data in one method streamlines the reporting process. In contrast, having a mixed data model with some individuals as only contacts and others as Person Accounts would be challenging for your association staff as it would require them to manage individuals in both the Accounts and Contacts tabs, causing data confusion.
+
+8. Salesforce Person Accounts experience routine updates
+Salesforce continually adds new features and functionality in support of Person Accounts through seasonal upgrades. Because Person Accounts are a standard Salesforce data model, you can leverage all Salesforce cloud products.
+
+9. Salesforce AppExchange packages work with Person Accounts
+Person Accounts data for the individual is still stored in the contact object. So, any data on the contact object being used within a Salesforce AppExchange app would still work within the Person Accounts model. Nimble AMS customers have installed thousands of apps successfully. The Nimble AMS team has not had a known instance of a customer who could not use an AppExchange product. 
+
+10. Salesforce Person Accounts is the data model used to build Nimble AMS
+Nimble AMS is built on the Salesforce platform and embraces the Person Accounts data model. Because of choosing Person Accounts, the Nimble AMS team can easily adapt the solution to meet nearly every membership structure. The goal: to empower associations of all kinds to adopt innovative solutions and meet future needs. 

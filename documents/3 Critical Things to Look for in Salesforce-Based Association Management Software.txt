@@ -1,0 +1,33 @@
+3 Critical Things to Look for in Salesforce-Based Association Management Software
+
+
+
+Does your association ever feel stuck on its legacy association management software (AMS)? Perhaps your staff spends too much time on low-value processes, or your members can’t personalize their membership experience. Maybe you keep leveraging the same technology because you feel like it’s your best or cheapest option.  
+ 
+If you’ve experienced any of these situations, it might be time for your association to adopt a modern, Salesforce-based AMS. Organizations switching to a Salesforce-based AMS choose the system because of performance, scalability, and security. With a Salesforce-based AMS, your association can empower your staff, enhance the member experience, and exceed your organizational goals.  
+
+The benefits of adopting Salesforce-based association management software 
+ 
+
+What are the benefits of investing in a Salesforce-based AMS for your association? Here are three:
+
+1. Ecosystem and extensibility. From email marketing to volunteer management, the Salesforce AppExchange offers more than 7,000 applications for associations to advance their mission. Your association can also consider leveraging Sales Cloud, Salesforce Einstein, Marketing Cloud, Tableau Analytics, and Service Cloud to expand your organization’s reach and enhance the member experience.
+
+2. Innovation. Forbes magazine voted Salesforce the most innovative company in the world (ahead of Tesla, Apple, and Google). In the 2023 fiscal year, Salesforce spent $5.1 billion on research and development. Salesforce customers are already leveraging this investment with artificial intelligence (AI) and data innovations.
+
+3. Financial stability. Building, delivering, and supporting enterprise software is incredibly expensive. Innovation requires a high level of focused, continuous investment in research and development. Salesforce has existed for over 20 years, and the organization has invested billions of dollars in the latest innovation ensuring the software offers powerful reporting and integration options.  
+
+The three keys to choosing the right Salesforce-based association management software
+Not all Salesforce-based AMS are created equally. When it comes to selecting the best option for your association, there are three vital aspects to consider:
+
+1. Continuous software upgrades. When selecting the best Salesforce-based AMS for your organization, look to see if every AMS customer is on the same version. Nearly every association professional has seen the adverse effects of being left behind with outdated software.
+
+Salesforce is automatically upgraded three times a year, and every Salesforce customer is on the same version. Your AMS should do the same. Another advantage of continuous software upgrades is how it empowers your AMS provider to focus on supporting only one version, allowing them more capacity to innovate.
+
+2. Person Accounts architecture. Verify your Salesforce-based AMS uses Person Accounts. Salesforce Person Accounts are built to support professional and trade associations, leading Fortune 500 companies, and non-profits. Person Accounts support the complicated membership structure of associations, including both individual and organizational members. With Person Accounts, your organization can document transactions for individuals and organizations, meeting your unique reporting needs.
+
+Salesforce is currently investing in Person Accounts, ensuring your organization will always access the latest technology to support your members.
+
+3. User-friendly reporting. All organizations need powerful data tools to predict member behavior and prevent churn. With a Salesforce-based AMS, your association can become data-centric by leveraging powerful analytics to drive your mission.  
+
+Look for a Salesforce-based AMS that offers hundreds of pre-built queries, reports, and dashboards, specifically created to meet the needs of associations. Your Salesforce-based AMS should also provide unified reporting, letting you see both organization and individual members in one report. To ensure your organization can discover valuable member behavior insights and act on the information before it happens, choose a Salesforce-based AMS that provides pre-built member predictions.

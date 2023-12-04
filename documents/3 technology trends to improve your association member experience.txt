@@ -1,0 +1,76 @@
+3 technology trends to improve your association’s member experience
+
+
+Is keeping up with technology trends on your association’s radar? If not, it should be. According to the latest Community Brands Association Trends Research, 63% of association members and 65% of members agree—professional membership and trade organizations that don’t transform technologically within the next few years won’t survive.
+
+As your association grows and evolves, its needs change. Meanwhile, technological advances aren’t standing still for your association. They’re evolving, too.
+
+Failing to keep up with technology may cause your organization to fall behind in its ability to deliver a great member experience.
+
+How to keep up with member expectations 
+ 
+
+One of the key reasons to keep up with the latest technology is to ensure you deliver the experience your members have come to expect. In the State of the Connected Customer report, Salesforce found that consumer expectations have hit an all-time high.
+
+Consider these statistics from the report: 
+
+73% of customers expect companies to understand their unique needs and expectations. 
+88% of customers state the experience a company provides is as important as a product or service. 
+62% of customers expect companies to anticipate their needs. 
+These findings highlight an important point—we’ve all come to expect highly personalized experiences like those provided by Amazon and Netflix. As for-profit companies provide these types of experiences, your members expect the same in more areas of their lives – including their experience with your association.
+
+You must meet and ideally exceed, member expectations. Otherwise, there’s a good chance their membership will lapse as they take their business elsewhere.
+
+But, are associations keeping pace with their members’ expectations? Some organizations aren’t leveraging the latest technology, making it difficult to be intentional in their member outreach campaigns.
+
+3 technology trends associations should be following
+To ensure a personalized member experience at your association, prioritize these three technology trends:
+
+1. System integration 
+
+Community Brands research reports that 59% of association professionals see upgrading and/or integrating new technology as a priority. For large organizations, upgrading and/or integrating new technology and enabling greater staff productivity are rated a significantly higher priority. 
+
+That’s significant. Especially when you also consider this finding from the Salesforce State of the Connected Customer research: Seventy percent of customers consider connected experiences – such as seamless handoffs between departments, and contextualized engagement based on earlier interactions – as very important for winning their business. 
+
+Those same consumers who are looking for a connected experience are also your members and prospective members. Delivering the experience your members have come to expect starts with integrated technology systems. 
+
+Integrating your systems delivers more than just efficiency and convenience, it eliminates data silos and reduces the risk of data redundancies. By integrating the technology you rely on for membership management, learning management, event management, and career services, you can support a superior member experience.
+
+TECH TIP: Choose Nimble AMS because it integrates seamlessly with the Community Brands family of products, including career software, learning management software, and events management software . Configure Nimble AMS with access to the Salesforce AppExchange and implement Nimble Fuse for even more external applications.
+
+2. Artificial intelligence (AI) 
+
+According to Community Brands Research, only 12% of association professionals have invested in AI or machine learning. However, 17% plan on investing in the future.  
+
+AI has changed the way we interact with technology in our everyday lives. Just order something from Amazon and you’ll receive recommendations on the next item Amazon wants you to purchase. Do you send texts via Siri? Your iPhone is leveraging AI to streamline your user experience.  
+
+How to use artificial intelligence at your association: 
+
+Getting started with AI is well within reach for associations, too. Using Salesforce platform-based Nimble AMS, which leverages the Salesforce Einstein AI technology, associations can become smarter, more predictive, and more in tune with what members need, want, and expect. Associations can use AI technology to do things like: 
+
+Create an Amazon-like shopping experience. Recommend new purchases based on past behaviors. Feature “what other members like you purchased” to increase non-dues revenues. 
+Help members find answers through personalized content. Predict the answers members are looking for and provide that information proactively. 
+Automate aspects of member service by answering common questions. Offer the ability to renew memberships via a chatbot to provide immediate response 24/7 and free up staff time. 
+Use predictive analytics to determine which event location will bring in the highest number of registrations.
+Use data about past behaviors to predict if a member is unlikely to renew, and then intervene before losing the membership. 
+The Marine Corps Association & Foundation (MCA&F) leveraged Nimble AMS and Salesforce Einstein AI to improve the member experience. Using Nimble AMS Predictions, MCA&F identified a pool of members who were at high risk of lapsing. Then the MCA&F staff worked with the Nimble AMS team to create a solution to renew 25% of the members who were at high risk of lapsing.
+
+3. Security and trust 
+
+Community Brands Research found that 51% of association professionals have already invested in cybersecurity technology, and another 13% plan to invest in the future.  
+
+Security may not seem like a technology trend. But having cutting-edge security helps protect your member data and reduce the risk for your association. It also helps you to establish trust with your members.
+ 
+
+How to enhance the security of your association: 
+
+As your association grows and collects personal information about your members, fueling personalized communications, you simply can’t afford not to protect your member data. Here are five important ways your association management software (AMS) can protect your member data and reduce risk: 
+
+Transparency. Your AMS should provide you with insight, information, and documentation into its system performance and security to promote trust and confidence in its service.
+Data security. To prevent unauthorized access, your AMS should support data security best practices, including two-factor authentication; login IP ranges; adjustable session timeout thresholds; custom domains; and the latest authentication and encryption protocol, Transport Layer Security (TLS), for browser encryption.
+Comprehensive user permissions. Your system should allow only your organization to access its data and allow your administrator to restrict access so your employees can view and edit only the data they should be able to access in the system, depending on their role with your organization.
+Data recovery. To safeguard your data, your AMS should protect your data from simple data storage errors, catastrophic failures, and everything in between.
+Compliance. The most secure AMS systems maintain compliance certifications and attestations to validate their security. 
+Your ability to embrace the latest technology depends heavily on your AMS. One of the best ways to prepare for and incorporate technology trends is to use innovative software like Nimble AMS.
+
+The industry-leading software offers continuous delivery, so the product includes and supports the latest and greatest features. In addition, Nimble AMS offers a framework-first approach, which ensures it’s adaptable, taking advantage of new technology innovations.

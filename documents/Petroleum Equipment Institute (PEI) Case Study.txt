@@ -1,0 +1,23 @@
+Petroleum Equipment Institute (PEI) Case Study
+
+PEI moves to Nimble AMS for easier system to use and maintain
+The Challenge
+A trade association, PEI had used the same association management software (AMS) for about 10 years. Because the product was highly customized to meet their needs, the PEI team had no clear path to upgrade the software. Then, due to changes after the product was purchased by another AMS company, PEI found it difficult to access the data needed to serve both their company and individual members. For example, to access primary member contact information, employees had to piece together queries or use other workarounds.
+
+PEI’s member management software was so highly customized that there was no clear path to upgrade the system. Plus, the organization’s member data was “trapped” in the system, with no straightforward or dependable way to pull the reports staff needed.
+
+After facing multiple challenges with their AMS, the PEI team turned to Nimble AMS for a cloud-based solution with built-in association functionality that is configurable and easy to use and maintain.
+
+“Our previous AMS felt like a dead end. It was so highly customized that there was no easy way to upgrade it. After looking at multiple cloud-based platforms, we chose Nimble AMS because it seemed much more tailored to the needs of associations.”
+
+J. Rex Brown, Director of Information Services, PEI
+
+The solution
+The team turned to Nimble AMS by Community Brands for a cloud-based solution that gives them hassle-free product upgrades, simplified access to member data, and the ability to configure the system to meet their needs. PEI now uses Nimble AMS’s out-of-the-box association functionality, tailored to the organization’s needs. Employees across the association – even non-technical staff – can easily pull and configure reports from the system and create quick-reference dashboards for the executive team.
+
+With Nimble AMS, the PEI team has the functionality they need in a system that’s easier to use and maintain. Even PEI’s non-technical staff can pull and modify reports that show the data they need. And staff can now do things they were unable to do before, such as move paper-based forms online. PEI also has expanded on the Salesforce platform using MailChimp to meet their marketing needs.
+
+The results
+“With Nimble AMS, we now have easier and more reliable access to our member data. We can configure the system to meet our needs. And since it’s cloud-based, with easy product upgrades, we don’t have to worry about maintaining and updating it.”
+
+J. Rex Brown, Director of Information Services, PEI

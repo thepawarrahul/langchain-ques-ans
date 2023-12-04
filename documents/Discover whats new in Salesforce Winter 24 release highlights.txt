@@ -1,0 +1,43 @@
+Discover what’s new in Salesforce: Winter ‘24 release highlights
+
+As a trailblazing association, it’s crucial to know the latest technological advances to understand how they impact your organization. All Nimble AMS customers receive three annual software upgrades as well as three yearly Salesforce updates. But between Nimble AMS and Salesforce’s many software enhancements, understanding how your association can leverage these updates might feel a little overwhelming.  
+ 
+Never fear! We’re ready to unpack three Salesforce Winter ‘24 release highlights. Continue reading to discover how your organization can take advantage of the latest Salesforce features.  
+
+3 Salesforce Winter ‘24 release highlights that associations will love 
+The Nimble AMS team works with our customers to maximize the power of Nimble AMS and Salesforce.  Out of the many Salesforce Winter ‘24 release enhancements, we chose three features that will empower your entire association, helping you advance the staff and member experience.  
+ 
+Here are the top three highlights from the Salesforce Winter ‘24 release:  
+
+1. Multi-factor authentication auto-enablement  
+Reduce risk and increase compliance with an extra layer of security beyond a password. To access an account, users must provide at least two pieces of information.  This makes it significantly more challenging for unauthorized individuals to gain access to an account.
+
+As of 2022, Salesforce has required all customers to use multi-factor authentication (MFA) when accessing Salesforce products. To help customers meet this requirement, Salesforce is now automatically enabling MFA for production orgs in several phases. With the Salesforce Winter ’24 update, MFA is auto-enabled for the third phase of orgs, and the final phase of MFA will occur with the Spring ’24 release. This change applies to Lightning Experience, Salesforce Classic, and all Salesforce mobile apps in all editions. 
+
+The release update automatically turns on this setting. However, MFA isn’t enforced at this stage, so you can turn off the setting if users aren’t prepared. When MFA is turned on, the process for logging in to the UI changes, requiring users to confirm their identity with an MFA verification method like an authenticator app, security key, or built-in authenticator. If users haven’t done so already, they’ll be prompted to register a verification method the next time that they log in.
+
+To prepare for this update, consider training your users on how to acquire, register, and log in with MFA verification methods. Also, verify whether you have exempt user types that must be manually excluded from MFA auto-enablement.  
+
+2. Improved accessibility
+Web accessibility is the ability for a website, app and/or software to be accessible to people who have a disability affecting their vision, hearing, cognition and/or motor functions. To assist people with disabilities, there are several assistive technology tools that make it easier to interact with the web. Websites and portals that are not compatible with assistive technology tools discourages people with disabilities from interacting with the organization.   
+
+Nimble AMS Community Hub is WCAG compliant so that those members with disabilities can comfortably access your member facing portal.  Here are a few ways that Community Hub is WCAG compliant:  
+
+- Alternative text for images: Images have alternative text or alt text, which can be easily read by assistive technologies like screen readers. The text conveys what the image is about for those that cannot view the image.  
+- Sufficient color contrast: All elements on the pages have a sufficient color contrast between foreground and background colors, to make it easy on the eyes to view the contents of the page. A sufficient color contrast helps members with such vision disabilities, color blindness or age-related issues to view the screen’s contents.  
+- Detectable text on links and buttons: Links and buttons have detectable text which can be easily read by screen readers. Using this detectable text, users can recognize links and action buttons like Submit, Save, etc. 
+
+With the Salesforce Winter ‘24 release, you’ll notice increased accessibility to all pages in Lightning Experience and Lightning base components in custom Lightning components. Non-text UI elements, such as buttons and checkboxes, and some text UI elements, such as links, now display with improved color contrast.  
+
+Web Content Accessibility Guidelines (WCAG) offer criteria to increase accessibility for non-text contrast. Achieving good color contrast means that all users can more easily see the content on any device or in any lighting conditions. 
+
+Flow builder
+Salesforce Flows empower you to build complex business solutions using clicks, not code. Flow Builder is the most powerful tool that a Salesforce Admin has at their disposal, giving you similar powers that Salesforce developers have. Flow Builder lets you build the logical processes that drive a flow including finding, updating and creating records. 
+
+In the Salesforce Winter ‘24 release, build screens that feel like single-page applications with reactive flow screen components are generally available.  
+
+Additionally, you can write and display custom error messages in record-triggered flows and trigger flows from Data Cloud data changes. With the Migrate to Flow tool, you can relocate more kinds of workflow rules to your flows. 
+
+1. Custom Flow error messages – Use the new Custom Error Message element to create targeted error messages for your end users to explain what went wrong or how to correct it. The error messages display in a window on the overall record page or as an inline error on a specific field. 
+2. Collection Criteria Filter – Apply criteria to a collection, and then output a new collection that contains only the items that meet the criteria. 
+3. Build Screen Flows with Reactive Components – Reduce the number of screens that your users click through, and build screens that feel like single-page applications with reactive flow screen components. 

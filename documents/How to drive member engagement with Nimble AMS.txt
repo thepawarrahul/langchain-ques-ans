@@ -1,0 +1,61 @@
+How to drive member engagement with Nimble AMS
+
+The link between member engagement and innovative technology has never been stronger. The latest Community Brands research shows that members who view their organization as an early technology adopter have higher levels of member engagement, leading to greater satisfaction, deeper connection, and an increased likelihood of membership renewal and promotion of an organization.
+
+Associations that invest in innovative technology are also more likely to drive a superior member experience. Read our blog for more tips on how to boost member engagement by leveraging association management software (AMS).  
+
+5 effective ways your AMS can increase member Engagement
+When it comes to improving member engagement and driving a superior member experience, your association will need innovative technology to help get the job done. 
+ 
+Look for the following features in your next AMS:  
+
+1. Online community. Build a bustling online member community and maximize membership value by providing a place for member connection and industry resources. Offering an online community is a great way to elevate and encourage networking among your association’s members. It can also make your association part of your members’ daily social networking habits.
+
+Nimble AMS is association management software that includes online community functionality called Nimble Communities. With Nimble Communities you can easily set up and host a branded online member community – a digital home for connections and collaboration, including member–to–member, staff–to–member, member–to–staff, and staff–to–staff.
+
+Nimble Communities is built on the Salesforce Community Cloud platform and provides the collaboration capabilities you need to drive continuous member engagement. 
+
+For example, with Nimble Communities, you can:
+
+Present members with a custom home page that presents them with targeted, valuable content based on their member profile.
+Use group functionality to create discussion and content areas in the community based on specific topics, so members can join in the areas that interest them most.
+Use online badges to acknowledge and reward active and engaged members.
+2. Personalized content. Email is still a great way to connect with your members regularly. Sending targeted, personalized communications shows your members you understand and care about their needs and that you’re committed to delivering value.
+
+Here are three types of emails that can be especially helpful for keeping members engaged:
+
+- Onboarding email series: Help new members feel at home right away with a series of emails that lets them know how your organization works, what to expect next, and where to go for information.
+- Newsletters: Send a regular newsletter to keep members updated on new resources, industry news, and upcoming events. This communication will help to keep your association top-of-mind with your members.
+- Renewal communications: As your members get close to their renewal dates, remind them of the benefits and value they receive from your organization. For example.
+- Remind them of the benefits they have not yet taken advantage of, and that there’s still time to do so.
+- Reinforce the value of membership by reminding members of the benefits they have taken advantage of, such as event discounts and learning opportunities.
+- Let members know about upcoming events and opportunities they’ll miss if they do not renew.
+- Nimble AMS helps you create and send personalized email communications through an easy-to-use point-and-click branded templating tool called Nimble Create. You can use Nimble Create to build personalized member–facing communications for onboarding, engagement, renewals, and more.
+
+Personalizing the member journey: The 1-1 Experience
+When it comes to personalization, only 25% of association professionals believe that they use their technology well, according to Community Brands' most recent Association Trends Study. Give your members the personalized experience they deserve with innovative technology from Nimble AMS.
+
+3. Artificial intelligence. You have a wealth of data in your AMS. Wouldn’t it be great if your AMS could use that data to predict member behavior and give you actionable insights to encourage deeper engagement with members?
+
+Using artificial intelligence, like Nimble AMS predictions, built on the Salesforce Einstein Prediction Builder, empowers your organization to become data-driven. Leveraging predictive analytics keeps your organization one step ahead.
+
+With Nimble Predictions, your association can determine the following:
+
+Which of your members are at risk of not renewing, and then take steps to avoid non-renewal.
+Which of your members are high-quality candidates for your certification program and then steps to send them targeted learning/certification opportunities.
+Which annual meeting registrations might cancel or be a no-show, and then take steps to encourage them to attend.
+4. Member portal. Look for an AMS that puts your member first, offering a personalized member experience. Offering a branded and stylized member portal encourages your members to connect and network, boosting member engagement.
+
+Nimble AMS makes it easy for organizations to personalize the member experience. By leveraging Salesforce Experience Cloud, Nimble AMS can customize member engagement in these ways:
+
+Customize a member portal template to reflect your unique brand identity and encourage member connection.
+Create a member portal that is mobile responsive so members can access your page whenever and wherever they want.
+Keep your members engaged with easy to create call-to-action (CTA) buttons to encourage members to sign up for a newsletter, make a purchase, or contact your association.
+5. Modern e-commerce. To keep members coming back to your association, look for an AMS with innovative e-commerce. A great e-commerce experience improves the member experience and helps to drive revenue.
+
+With the Nimble AMS Lightning Store, your association can boost member engagement. Here’s how:
+
+More purchase options: Members can purchase multiple items, renew their membership, register for events, enroll in a learning course, manage their membership, and more, all from the convenience of your e-commerce page.
+Personalize shopping: Offer product, event, or learning recommendations based on past member purchases to create an excellent experience and drive revenue.
+Send automated cart reminders: If a member forgets to make a purchase, send an automated reminder to prompt them to return to their cart.
+

@@ -1,0 +1,67 @@
+Artificial Intelligence 101: Tips to leverage AI at your association
+
+Artificial Intelligence (AI) is everywhere, making our lives easier. Whether it’s through Amazon’s targeted shopping recommendations, Siri’s helpful chat or search features, or ChatGPT’s powerful content creation, Artificial Intelligence streamlines manual processes and improves the user experience.  
+
+But how can Artificial Intelligence assist associations? We’re here to help you learn how AI can give your organization a competitive edge. Read on for more tips! 
+
+What is Artificial Intelligence (AI) for associations?
+Artificial Intelligence is technology that simulates human intelligence. AI mimics human “thinking” by using complex algorithms, or sets of rules, that are followed in calculations and other problem-solving operations. 
+
+AI gains intelligence in two primary ways:  
+
+Machine learning. The process AI uses to find correlations between your association’s data and any outcomes you hope to achieve. This form of machine learning works best for structured data.
+Deep learning. A learning function that operates like the human brain, AI uses neural networks to predict an outcome based on your organizational data. Unlike machine learning, deep learning excels at finding patterns in unstructured data.
+What are the best types of Artificial Intelligence (AI) for associations?
+AI helps you make forward-looking statements, empowering your association to address organizational pain points and enhance the staff and member experience. Artificial Intelligence can benefit associations, taking on several useful forms: 
+
+Yes or no predictions. This type of AI offers a probability outcome that’s perfect for tracking leads and making segmentation lists. Using yes or no predictions can offer valuable insights and even boost ROI. Consider asking questions like, “is a member at risk of not paying membership dues on time?” Or “is this constituent likely to renew their membership?”
+Numeric predictions. Using numeric predictions can help you answer vital questions like how much money will we make in the quarter? How many members will register for our next event? Or how much inventory are we going to use next month?
+Recommendations. Recommendations AI are designed to predict a member’s next e-commerce purchase, learning course, or association event based on their previous behavior. These recommendations are personalized and can be used to elevate the member experience.
+Generative AI. When you consider generative Artificial Intelligence, you might think of Chat GPT. Generative AI is a form of machine learning that can be leveraged to create new content like text, audio, images, videos, simulations, or code.
+How are associations using Artificial Intelligence (AI)? 
+While countless businesses are adopting AI, associations are slow to embrace this trend. The latest Community Brands research found that only 12% of professional or trade organizations currently have AI or machine learning technology, and only 17% plan on adopting the technology in the future.  
+ 
+As AI evolves and continues offering personalized experiences and streamlined manual processes, your association staff and members will expect the same from your technology. Here are four ways AI can assist your organization:
+
+1. Enhance the member experience. Consider using chatbots, a simple form of AI to enhance member services. Chatbots can help your organization support and scale member interactions, in turn improving the customer experience.
+
+For example, you can automate aspects of member service, like answering common questions or renewing a membership, via a chatbot to provide an immediate response. With chatbots intercepting and answering more straightforward questions, your organization can free up staff time. More complex inquiries can be passed to a live agent, who can take more time to assist a member, ensuring a superior experience.
+
+2. Boost non-dues revenue. With recommendations AI, your organization can boost e–commerce through cross-selling opportunities. Create a modern and effective Amazon-like shopping experience that recommends new purchases based on past behaviors. Recommendations AI can also suggest “what other members like you purchased” to increase non-dues revenues. 
+ 
+Drive revenue to your association by automating abandoned cart emails. These emails remind customers to return to forgotten purchases, increasing the chance that they’ll complete a sale.
+
+3. Improve membership renewal rates. Use data about past behaviors to predict if a member is unlikely to renew, and then intervene before losing the membership. Your association can increase member retention by identifying individuals likely to lapse. When an at-risk member is discovered, you’ll receive actionable steps to encourage the member to renew.
+
+Using AI predictions can help your association with a myriad of organizational issues. It’s up to your association to prioritize what is most important to you and leverage AI to address the challenge.
+
+The Marine Corps Association & Foundation (MCA&F) utilized Nimble AMS Predictions and Salesforce Einstein AI to enhance the member experience. Using AI predictions, MCA&F was able to identify a pool of members who were at high risk of lapsing. The MCA&F staff then worked with the Nimble AMS team to create a solution to renew 25% of the members who were at high risk of lapsing.
+
+4. Increase efficiency. Leverage generative AI to boost the efficiency of your association staff. Your employees can elevate productivity with the next generation of AI. Develop a strategic plan that outlines specific use cases to guide how you use generative AI and consider establishing a team to oversee the process. You also might want to provide training so staff can best utilize the technology.  
+ 
+Another way Artificial Intelligence can benefit associations is by improving your search results. Your organization can increase efficiency with AI that allows you to configure searchable objects and increase search accuracy.  
+
+How do employees and executives feel about Artificial Intelligence (AI)?  
+Artificial Intelligence, especially generative AI, is currently a hot topic. According to research conducted by McKinsey Digital, generative AI will annually add $4.4 trillion to the global economy.  
+
+But what do company executives and employees think about the potential of AI? A recent Salesforce study discovered the following: 
+
+56% of employees said they believe generative AI will transform their roles.  
+65% of employees believe AI will allow them to focus on more strategic work, saving five hours a week. 
+Executives believe that 75% of the potential value from AI is concentrated in four functions: customer operations, marketing and sales, software engineering, and R&D. 
+Executives think that generative AI and other automation technologies could add up to 3.3 percentage points annually to productivity growth. 
+Artificial Intelligence for associations frequently asked questions (FAQ)
+Do you still have questions about AI? You’re not alone! Here are the top three frequently asked questions (and answers) about Artificial Intelligence: 
+
+1. What are four powerful examples of Artificial Intelligence?
+
+Answer: Virtual assistants, personalized content recommendations, fraud detection systems, and navigation apps.
+
+2. How is AI being used today?
+
+Answer: Most Americans use AI through smart assistants. More than 120 million US adults report using a smart assistant at least once a month.
+
+3. What is AI in simple words?
+
+Answer: Artificial Intelligence is creating machines that think like humans. The goal of AI is to recognize data patterns as well as make choices and judgments. 
+

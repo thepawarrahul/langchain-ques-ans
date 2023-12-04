@@ -1,0 +1,27 @@
+American Society of Cataract and Refractive Surgery
+
+Implements Nimble AMS for 360 degree view of organization.
+The American Society of Cataract and Refractive Surgery (ASCRS) is an international, educational society with more than 9,000 members. ASCRS has multiple entities, including the American Society of Ophthalmic Administrators (ASOA).
+​Challenge
+ASCRS was experiencing the following pain points in their previous Association Management System:
+
+Deadline Approaching – ASCRS’ current legacy system support was ending soon and they were under pressure to move systems quickly.
+Technology Partner Wanted – ASCRS was interested in finding a technology partner who can provide not only an effective software solution but also efficient, timely, and helpful customer service.
+Disparate Data – ASCRS had several data management systems in place, with varying degrees of integration to their existing member management system. Several more key sets of data (e.g., committees, awards) were being managed in spreadsheets or Word documents throughout the office.
+Seeking a Better Staff Experience – ASCRS was hoping to improve staff efficiency and organizational effectiveness through a more intuitive and user-friendly AMS.
+​Solution
+NimbleUser implemented Nimble AMS built on Salesforce.com to replace ASCRS’ existing Association Management System:
+
+Phased Approach – To meet their aggressive timeframe, NimbleUser looked at the implementation of Nimble AMS creatively, proposing a phased approach.  By taking this approach, ASCRS did not have to endure yet another year in a sub par system.
+Phase 1 included the ability to manage all aspects of ASCRS and ASOA membership (including self-service join and renewal), as well as having complete integration with 3rd party applications and with both ASCRS and ASOA websites. This phase focused on all of the critical functionality and requirements that ASCRS and ASOA needed immediately at launch time.
+Phase 2 included elements that were still needed by ASCRS and ASOA but were not specifically required at launch. This included the remaining elements such as product sales, education management, Government Relations, integration to email marketing, award program management and Certification Management.
+​Results
+One Centralized Data Source – Nimble AMS will be the one main data source that gives ASCRS & ASOA a 360 degree view of their individual and organizational customers. ASCRS & ASOA will be able to run reports, from one source, that will identify their members’ total engagement with ASCRS & ASOA.
+Seamless Member Transactions – Nimble AMS is fully integrated with both ASCRS.org and ASOA.org websites, such that all transactions on the website (e.g., membership joins and renewals, event registration, updating individual and company profiles) occurs in real-time with no staff intervention required, including processing of credit card payments.
+Plays Well with Others – Nimble AMS is fully integrated to third-party tools that ASCRS such as email marketing and event applications.
+Cloud-Based AMS – Remote staff have the same type of access as “in-house” staff.
+Reporting without IT Help – Staff can easily run reports and queries without intervention from IT staff and can easily export and schedule reports.
+User-Friendly & Intuitive – Staff can easily work within the system even if they are not a daily user of the AMS. The User interface is easy to navigate and consistent.
+​”We made the decision to switch our AMS late spring in 2013. We began our search and NimbleUser quickly rose to the top of our short list. After a great demo and sales presentation, we began our implementation in the summer of 2013. We decided to phase in our implementation and due to NimbleUser’s great team and dedication, our initial launch happened on Oct 1st 2013, just about 3 months after we started. Our members and staff love the new AMS and we have had a nothing but great feedback from everyone who uses it. NimbleUser’s team is truly dedicated to making their customers succeed and does what it takes to deliver. We have been extremely happy with our decision to go with NimbleUser and if I had to do it all over again, would choose them with no hesitation.”
+
+Rich Mraz, Director of IT, American Society of Cataract and Refractive Surgery
