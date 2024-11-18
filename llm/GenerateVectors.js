@@ -1,12 +1,15 @@
 // 1. Import document loaders for different file formats
-import { DirectoryLoader } from "langchain/document_loaders/fs/directory";
-import { JSONLoader } from "langchain/document_loaders/fs/json";
+import {
+    JSONLoader,
+    JSONLinesLoader,
+  } from "langchain/document_loaders/fs/json";
+import { DirectoryLoader } from "langchain/document_loaders/fs/directory"
 import { TextLoader } from "langchain/document_loaders/fs/text";
-import { CSVLoader } from "langchain/document_loaders/fs/csv";
-import { PDFLoader } from "langchain/document_loaders/fs/pdf";
+import { CSVLoader } from "@langchain/community/document_loaders/fs/csv";
+import { PDFLoader } from "@langchain/community/document_loaders/fs/pdf";
 
-import { HNSWLib } from "langchain/vectorstores/hnswlib";
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
+import { HNSWLib } from "@langchain/community/vectorstores/hnswlib";
+import { OpenAIEmbeddings } from "@langchain/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 
 // 3. Import Tiktoken for token counting
