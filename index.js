@@ -2,6 +2,7 @@ import express from 'express';
 import multer from 'multer';
 import { queryAi } from './llm/Query.js';
 import { generateVectors } from './/llm/GenerateVectors.js';
+import { summarizeFile } from './llm/summarize.js';
 
 const app = express();
 const port = 4000;
@@ -27,6 +28,19 @@ app.post('/upload', upload.single('file'), (req, res) => {
   }
   res.json({ message: 'File uploaded successfully', filename: req.file.filename });
 });
+
+// Summarize the text from the file.
+  app.post('/summarize', upload.single('file'), async (req, res)=> {
+    if (!req.file) {
+      return res.status(400).json({ error: 'No File uploaded' });
+    }
+    const fileName = req.file.filename;
+    console.log('Uploaded file name:', fileName);
+    console.log('----------------File Uploaded Successfully for Summarization-------------');
+    const summerization = await summarizeFile(req.file.filename);
+
+    res.json( { message: summerization });
+  });
 
 // Query AI end point
 app.post('/query', async (req, res) => {
