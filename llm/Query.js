@@ -1,15 +1,18 @@
 import dotenv from "dotenv";
-import { OpenAI } from "langchain/llms/openai";
+import { ChatOpenAI } from "@langchain/openai";
 import { RetrievalQAChain } from "langchain/chains";
-import { HNSWLib } from "langchain/vectorstores/hnswlib";
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
+import { HNSWLib } from "@langchain/community/vectorstores/hnswlib";
+import { OpenAIEmbeddings } from "@langchain/openai";
 
 dotenv.config();
 
 const VECTOR_STORE_PATH = "Documents.index";
 
 export const queryAi = async (question) => {
-    const model = new OpenAI({});
+    const model = new ChatOpenAI({
+      model: "gpt-4o",
+    });
+
     let vectorStore;
 
     console.log("Loading existing vector store...");
