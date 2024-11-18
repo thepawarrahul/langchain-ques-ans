@@ -6,7 +6,7 @@ import { CSVLoader } from "langchain/document_loaders/fs/csv";
 import { PDFLoader } from "langchain/document_loaders/fs/pdf";
 
 // 2. Import OpenAI language model and other related modules
-import { OpenAI } from "langchain/llms/openai";
+import { ChatOpenAI } from "@langchain/openai";
 import { RetrievalQAChain } from "langchain/chains";
 import { HNSWLib } from "langchain/vectorstores/hnswlib";
 import { OpenAIEmbeddings } from "langchain/embeddings/openai";
@@ -79,7 +79,9 @@ export const run = async (question) => {
     // 11. Check if the cost is within the acceptable limit
     if (cost <= 1) {
       // 12. Initialize the OpenAI language model
-      const model = new OpenAI({});
+      const model = new ChatOpenAI({
+        model: "gpt-4o",
+      });
   
       let vectorStore;
   
